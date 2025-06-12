@@ -1,0 +1,7 @@
+orjson
+numpy
+mne
+tqdm
+pandas
+plotly
+torch

@@ -1,0 +1,22 @@
+{
+  "fold_0": {
+    "interictal": 1496,
+    "preictal": 1496
+  },
+  "fold_1": {
+    "interictal": 1416,
+    "preictal": 1416
+  },
+  "fold_2": {
+    "interictal": 1496,
+    "preictal": 1496
+  },
+  "fold_3": {
+    "interictal": 1428,
+    "preictal": 1428
+  },
+  "fold_4": {
+    "interictal": 1226,
+    "preictal": 1226
+  }
+}

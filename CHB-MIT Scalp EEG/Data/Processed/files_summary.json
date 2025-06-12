@@ -1,0 +1,3386 @@
+{
+  "chb01": {
+    "group_1": {
+      "files": {
+        "chb01_01.edf": {
+          "start_original": "11:42:54",
+          "end_original": "12:42:54",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb01_02.edf": {
+          "start_original": "12:42:57",
+          "end_original": "13:42:57",
+          "start_relative": 3603,
+          "end_relative": 7203
+        },
+        "chb01_03.edf": {
+          "start_original": "13:43:04",
+          "end_original": "14:43:04",
+          "start_relative": 7210,
+          "end_relative": 10810
+        },
+        "chb01_04.edf": {
+          "start_original": "14:43:12",
+          "end_original": "15:43:12",
+          "start_relative": 10818,
+          "end_relative": 14418
+        },
+        "chb01_05.edf": {
+          "start_original": "15:43:19",
+          "end_original": "16:43:19",
+          "start_relative": 14425,
+          "end_relative": 18025
+        },
+        "chb01_06.edf": {
+          "start_original": "16:43:26",
+          "end_original": "17:43:26",
+          "start_relative": 18032,
+          "end_relative": 21632
+        },
+        "chb01_07.edf": {
+          "start_original": "17:43:33",
+          "end_original": "18:43:33",
+          "start_relative": 21639,
+          "end_relative": 25239
+        },
+        "chb01_08.edf": {
+          "start_original": "18:43:40",
+          "end_original": "19:43:40",
+          "start_relative": 25246,
+          "end_relative": 28846
+        },
+        "chb01_09.edf": {
+          "start_original": "19:43:56",
+          "end_original": "20:43:56",
+          "start_relative": 28862,
+          "end_relative": 32462
+        },
+        "chb01_10.edf": {
+          "start_original": "20:44:07",
+          "end_original": "21:44:07",
+          "start_relative": 32473,
+          "end_relative": 36073
+        },
+        "chb01_11.edf": {
+          "start_original": "21:44:14",
+          "end_original": "22:44:14",
+          "start_relative": 36080,
+          "end_relative": 39680
+        },
+        "chb01_12.edf": {
+          "start_original": "22:44:22",
+          "end_original": "23:44:22",
+          "start_relative": 39688,
+          "end_relative": 43288
+        },
+        "chb01_13.edf": {
+          "start_original": "23:44:29",
+          "end_original": "24:44:29",
+          "start_relative": 43295,
+          "end_relative": 46895
+        },
+        "chb01_14.edf": {
+          "start_original": "00:44:37",
+          "end_original": "1:44:37",
+          "start_relative": 46903,
+          "end_relative": 50503
+        },
+        "chb01_15.edf": {
+          "start_original": "01:44:44",
+          "end_original": "2:44:44",
+          "start_relative": 50510,
+          "end_relative": 54110
+        },
+        "chb01_16.edf": {
+          "start_original": "02:44:51",
+          "end_original": "3:44:51",
+          "start_relative": 54117,
+          "end_relative": 57717
+        },
+        "chb01_17.edf": {
+          "start_original": "03:44:59",
+          "end_original": "4:44:59",
+          "start_relative": 57725,
+          "end_relative": 61325
+        },
+        "chb01_18.edf": {
+          "start_original": "04:45:06",
+          "end_original": "5:45:06",
+          "start_relative": 61332,
+          "end_relative": 64932
+        },
+        "chb01_19.edf": {
+          "start_original": "05:45:13",
+          "end_original": "6:45:13",
+          "start_relative": 64939,
+          "end_relative": 68539
+        },
+        "chb01_20.edf": {
+          "start_original": "06:45:20",
+          "end_original": "7:29:43",
+          "start_relative": 68546,
+          "end_relative": 71209
+        },
+        "chb01_21.edf": {
+          "start_original": "07:33:46",
+          "end_original": "8:33:46",
+          "start_relative": 71452,
+          "end_relative": 75052
+        },
+        "chb01_22.edf": {
+          "start_original": "08:33:49",
+          "end_original": "9:33:49",
+          "start_relative": 75055,
+          "end_relative": 78655
+        },
+        "chb01_23.edf": {
+          "start_original": "09:33:58",
+          "end_original": "10:33:58",
+          "start_relative": 78664,
+          "end_relative": 82264
+        },
+        "chb01_24.edf": {
+          "start_original": "10:34:06",
+          "end_original": "11:34:06",
+          "start_relative": 82272,
+          "end_relative": 85872
+        },
+        "chb01_25.edf": {
+          "start_original": "11:34:14",
+          "end_original": "12:34:14",
+          "start_relative": 85880,
+          "end_relative": 89480
+        },
+        "chb01_26.edf": {
+          "start_original": "12:34:22",
+          "end_original": "13:13:07",
+          "start_relative": 89488,
+          "end_relative": 91813
+        },
+        "chb01_27.edf": {
+          "start_original": "13:13:21",
+          "end_original": "13:23:21",
+          "start_relative": 91827,
+          "end_relative": 92427
+        },
+        "chb01_29.edf": {
+          "start_original": "13:24:08",
+          "end_original": "14:24:08",
+          "start_relative": 92474,
+          "end_relative": 96074
+        },
+        "chb01_30.edf": {
+          "start_original": "14:24:15",
+          "end_original": "15:24:15",
+          "start_relative": 96081,
+          "end_relative": 99681
+        },
+        "chb01_31.edf": {
+          "start_original": "15:24:24",
+          "end_original": "16:24:24",
+          "start_relative": 99690,
+          "end_relative": 103290
+        },
+        "chb01_32.edf": {
+          "start_original": "16:24:32",
+          "end_original": "17:24:32",
+          "start_relative": 103298,
+          "end_relative": 106898
+        },
+        "chb01_33.edf": {
+          "start_original": "17:24:39",
+          "end_original": "18:24:39",
+          "start_relative": 106905,
+          "end_relative": 110505
+        },
+        "chb01_34.edf": {
+          "start_original": "18:24:46",
+          "end_original": "19:24:46",
+          "start_relative": 110512,
+          "end_relative": 114112
+        }
+      },
+      "ictals": [
+        [
+          10206,
+          10246
+        ],
+        [
+          12285,
+          12312
+        ],
+        [
+          52242,
+          52282
+        ],
+        [
+          55132,
+          55183
+        ],
+        [
+          63052,
+          63142
+        ],
+        [
+          71779,
+          71872
+        ],
+        [
+          91350,
+          91451
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "chb01_36.edf": {
+          "start_original": "22:14:43",
+          "end_original": "23:14:43",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb01_37.edf": {
+          "start_original": "23:14:46",
+          "end_original": "24:14:46",
+          "start_relative": 3603,
+          "end_relative": 7203
+        },
+        "chb01_38.edf": {
+          "start_original": "00:14:53",
+          "end_original": "1:14:53",
+          "start_relative": 7210,
+          "end_relative": 10810
+        },
+        "chb01_39.edf": {
+          "start_original": "01:15:01",
+          "end_original": "2:15:01",
+          "start_relative": 10818,
+          "end_relative": 14418
+        },
+        "chb01_40.edf": {
+          "start_original": "02:15:08",
+          "end_original": "3:15:08",
+          "start_relative": 14425,
+          "end_relative": 18025
+        },
+        "chb01_41.edf": {
+          "start_original": "03:15:15",
+          "end_original": "4:15:15",
+          "start_relative": 18032,
+          "end_relative": 21632
+        },
+        "chb01_42.edf": {
+          "start_original": "04:15:22",
+          "end_original": "5:15:22",
+          "start_relative": 21639,
+          "end_relative": 25239
+        },
+        "chb01_43.edf": {
+          "start_original": "05:15:29",
+          "end_original": "6:15:29",
+          "start_relative": 25246,
+          "end_relative": 28846
+        }
+      },
+      "ictals": []
+    },
+    "group_3": {
+      "files": {
+        "chb01_46.edf": {
+          "start_original": "08:15:51",
+          "end_original": "9:15:51",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    }
+  },
+  "chb02": {
+    "group_1": {
+      "files": {
+        "chb02_01.edf": {
+          "start_original": "15:29:39",
+          "end_original": "16:29:39",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb02_02.edf": {
+          "start_original": "17:29:49",
+          "end_original": "18:29:49",
+          "start_relative": 7210,
+          "end_relative": 10810
+        },
+        "chb02_03.edf": {
+          "start_original": "18:29:56",
+          "end_original": "19:29:56",
+          "start_relative": 10817,
+          "end_relative": 14417
+        },
+        "chb02_04.edf": {
+          "start_original": "19:30:03",
+          "end_original": "20:30:03",
+          "start_relative": 14424,
+          "end_relative": 18024
+        },
+        "chb02_05.edf": {
+          "start_original": "20:30:10",
+          "end_original": "21:30:10",
+          "start_relative": 18031,
+          "end_relative": 21631
+        },
+        "chb02_06.edf": {
+          "start_original": "21:30:18",
+          "end_original": "22:30:18",
+          "start_relative": 21639,
+          "end_relative": 25239
+        },
+        "chb02_07.edf": {
+          "start_original": "22:30:25",
+          "end_original": "23:30:25",
+          "start_relative": 25246,
+          "end_relative": 28846
+        },
+        "chb02_08.edf": {
+          "start_original": "23:30:33",
+          "end_original": "24:30:33",
+          "start_relative": 28854,
+          "end_relative": 32454
+        },
+        "chb02_09.edf": {
+          "start_original": "00:30:40",
+          "end_original": "1:30:40",
+          "start_relative": 32461,
+          "end_relative": 36061
+        },
+        "chb02_10.edf": {
+          "start_original": "01:30:47",
+          "end_original": "2:30:47",
+          "start_relative": 36068,
+          "end_relative": 39668
+        },
+        "chb02_11.edf": {
+          "start_original": "02:30:55",
+          "end_original": "3:30:55",
+          "start_relative": 39676,
+          "end_relative": 43276
+        },
+        "chb02_12.edf": {
+          "start_original": "03:31:02",
+          "end_original": "4:31:02",
+          "start_relative": 43283,
+          "end_relative": 46883
+        },
+        "chb02_13.edf": {
+          "start_original": "04:31:09",
+          "end_original": "5:31:09",
+          "start_relative": 46890,
+          "end_relative": 50490
+        },
+        "chb02_14.edf": {
+          "start_original": "05:31:17",
+          "end_original": "6:31:17",
+          "start_relative": 50498,
+          "end_relative": 54098
+        }
+      },
+      "ictals": []
+    },
+    "group_2": {
+      "files": {
+        "chb02_15.edf": {
+          "start_original": "08:31:38",
+          "end_original": "9:31:38",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb02_16.edf": {
+          "start_original": "09:31:46",
+          "end_original": "9:47:45",
+          "start_relative": 3608,
+          "end_relative": 4567
+        },
+        "chb02_16+.edf": {
+          "start_original": "10:50:23",
+          "end_original": "11:50:23",
+          "start_relative": 8325,
+          "end_relative": 11925
+        },
+        "chb02_17.edf": {
+          "start_original": "11:50:31",
+          "end_original": "12:50:31",
+          "start_relative": 11933,
+          "end_relative": 15533
+        },
+        "chb02_18.edf": {
+          "start_original": "12:50:38",
+          "end_original": "13:50:38",
+          "start_relative": 15540,
+          "end_relative": 19140
+        },
+        "chb02_19.edf": {
+          "start_original": "13:50:45",
+          "end_original": "14:50:45",
+          "start_relative": 19147,
+          "end_relative": 22747
+        },
+        "chb02_20.edf": {
+          "start_original": "14:50:53",
+          "end_original": "15:50:53",
+          "start_relative": 22755,
+          "end_relative": 26355
+        },
+        "chb02_21.edf": {
+          "start_original": "15:51:00",
+          "end_original": "16:51:00",
+          "start_relative": 26362,
+          "end_relative": 29962
+        },
+        "chb02_22.edf": {
+          "start_original": "16:51:08",
+          "end_original": "17:51:08",
+          "start_relative": 29970,
+          "end_relative": 33570
+        },
+        "chb02_23.edf": {
+          "start_original": "19:02:27",
+          "end_original": "20:02:27",
+          "start_relative": 37849,
+          "end_relative": 41449
+        },
+        "chb02_24.edf": {
+          "start_original": "20:02:40",
+          "end_original": "21:02:40",
+          "start_relative": 41462,
+          "end_relative": 45062
+        },
+        "chb02_25.edf": {
+          "start_original": "21:02:48",
+          "end_original": "22:02:48",
+          "start_relative": 45070,
+          "end_relative": 48670
+        },
+        "chb02_26.edf": {
+          "start_original": "22:02:55",
+          "end_original": "23:02:55",
+          "start_relative": 48677,
+          "end_relative": 52277
+        },
+        "chb02_27.edf": {
+          "start_original": "23:03:03",
+          "end_original": "24:03:03",
+          "start_relative": 52285,
+          "end_relative": 55885
+        },
+        "chb02_28.edf": {
+          "start_original": "00:03:10",
+          "end_original": "1:03:10",
+          "start_relative": 55892,
+          "end_relative": 59492
+        },
+        "chb02_29.edf": {
+          "start_original": "01:03:18",
+          "end_original": "2:03:18",
+          "start_relative": 59500,
+          "end_relative": 63100
+        },
+        "chb02_30.edf": {
+          "start_original": "02:03:25",
+          "end_original": "3:03:25",
+          "start_relative": 63107,
+          "end_relative": 66707
+        },
+        "chb02_31.edf": {
+          "start_original": "03:03:33",
+          "end_original": "4:03:33",
+          "start_relative": 66715,
+          "end_relative": 70315
+        },
+        "chb02_32.edf": {
+          "start_original": "04:03:40",
+          "end_original": "5:03:40",
+          "start_relative": 70322,
+          "end_relative": 73922
+        },
+        "chb02_33.edf": {
+          "start_original": "05:03:47",
+          "end_original": "6:03:47",
+          "start_relative": 73929,
+          "end_relative": 77529
+        },
+        "chb02_34.edf": {
+          "start_original": "06:03:55",
+          "end_original": "7:03:55",
+          "start_relative": 77537,
+          "end_relative": 81137
+        },
+        "chb02_35.edf": {
+          "start_original": "07:04:02",
+          "end_original": "8:04:02",
+          "start_relative": 81144,
+          "end_relative": 84744
+        }
+      },
+      "ictals": [
+        [
+          3738,
+          3820
+        ],
+        [
+          11297,
+          11378
+        ],
+        [
+          22516,
+          22525
+        ]
+      ]
+    }
+  },
+  "chb03": {
+    "group_1": {
+      "files": {
+        "chb03_01.edf": {
+          "start_original": "13:23:36",
+          "end_original": "14:23:36",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb03_02.edf": {
+          "start_original": "14:23:39",
+          "end_original": "15:23:39",
+          "start_relative": 3603,
+          "end_relative": 7203
+        },
+        "chb03_03.edf": {
+          "start_original": "15:23:47",
+          "end_original": "16:23:47",
+          "start_relative": 7211,
+          "end_relative": 10811
+        },
+        "chb03_04.edf": {
+          "start_original": "16:23:54",
+          "end_original": "17:23:54",
+          "start_relative": 10818,
+          "end_relative": 14418
+        },
+        "chb03_05.edf": {
+          "start_original": "17:24:01",
+          "end_original": "18:24:01",
+          "start_relative": 14425,
+          "end_relative": 18025
+        },
+        "chb03_06.edf": {
+          "start_original": "18:24:08",
+          "end_original": "19:24:08",
+          "start_relative": 18032,
+          "end_relative": 21632
+        },
+        "chb03_07.edf": {
+          "start_original": "19:24:15",
+          "end_original": "20:24:15",
+          "start_relative": 21639,
+          "end_relative": 25239
+        },
+        "chb03_08.edf": {
+          "start_original": "20:24:22",
+          "end_original": "21:24:22",
+          "start_relative": 25246,
+          "end_relative": 28846
+        },
+        "chb03_09.edf": {
+          "start_original": "21:24:30",
+          "end_original": "22:24:30",
+          "start_relative": 28854,
+          "end_relative": 32454
+        },
+        "chb03_10.edf": {
+          "start_original": "22:24:37",
+          "end_original": "23:24:37",
+          "start_relative": 32461,
+          "end_relative": 36061
+        },
+        "chb03_11.edf": {
+          "start_original": "23:24:44",
+          "end_original": "24:24:44",
+          "start_relative": 36068,
+          "end_relative": 39668
+        },
+        "chb03_12.edf": {
+          "start_original": "00:24:51",
+          "end_original": "1:24:51",
+          "start_relative": 39675,
+          "end_relative": 43275
+        },
+        "chb03_13.edf": {
+          "start_original": "01:24:59",
+          "end_original": "2:24:59",
+          "start_relative": 43283,
+          "end_relative": 46883
+        },
+        "chb03_14.edf": {
+          "start_original": "02:25:06",
+          "end_original": "3:25:06",
+          "start_relative": 46890,
+          "end_relative": 50490
+        },
+        "chb03_15.edf": {
+          "start_original": "03:25:13",
+          "end_original": "4:25:13",
+          "start_relative": 50497,
+          "end_relative": 54097
+        },
+        "chb03_16.edf": {
+          "start_original": "04:25:20",
+          "end_original": "5:25:20",
+          "start_relative": 54104,
+          "end_relative": 57704
+        },
+        "chb03_17.edf": {
+          "start_original": "05:25:27",
+          "end_original": "6:25:27",
+          "start_relative": 57711,
+          "end_relative": 61311
+        },
+        "chb03_18.edf": {
+          "start_original": "06:25:34",
+          "end_original": "7:25:34",
+          "start_relative": 61318,
+          "end_relative": 64918
+        },
+        "chb03_19.edf": {
+          "start_original": "07:25:42",
+          "end_original": "8:25:42",
+          "start_relative": 64926,
+          "end_relative": 68526
+        },
+        "chb03_20.edf": {
+          "start_original": "08:25:51",
+          "end_original": "9:25:57",
+          "start_relative": 68535,
+          "end_relative": 72141
+        }
+      },
+      "ictals": [
+        [
+          362,
+          414
+        ],
+        [
+          4334,
+          4399
+        ],
+        [
+          7643,
+          7712
+        ],
+        [
+          12980,
+          13032
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "chb03_21.edf": {
+          "start_original": "12:38:31",
+          "end_original": "13:38:31",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb03_22.edf": {
+          "start_original": "13:38:38",
+          "end_original": "14:38:38",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb03_23.edf": {
+          "start_original": "14:38:45",
+          "end_original": "15:38:45",
+          "start_relative": 7214,
+          "end_relative": 10814
+        },
+        "chb03_24.edf": {
+          "start_original": "16:39:05",
+          "end_original": "17:39:05",
+          "start_relative": 14434,
+          "end_relative": 18034
+        }
+      },
+      "ictals": []
+    },
+    "group_3": {
+      "files": {
+        "chb03_25.edf": {
+          "start_original": "15:38:57",
+          "end_original": "16:38:57",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb03_26.edf": {
+          "start_original": "17:39:12",
+          "end_original": "18:39:12",
+          "start_relative": 7215,
+          "end_relative": 10815
+        },
+        "chb03_27.edf": {
+          "start_original": "18:39:20",
+          "end_original": "19:39:20",
+          "start_relative": 10823,
+          "end_relative": 14423
+        },
+        "chb03_28.edf": {
+          "start_original": "19:39:27",
+          "end_original": "20:39:27",
+          "start_relative": 14430,
+          "end_relative": 18030
+        },
+        "chb03_29.edf": {
+          "start_original": "20:39:34",
+          "end_original": "21:39:34",
+          "start_relative": 18037,
+          "end_relative": 21637
+        },
+        "chb03_30.edf": {
+          "start_original": "21:39:42",
+          "end_original": "22:39:42",
+          "start_relative": 21645,
+          "end_relative": 25245
+        }
+      },
+      "ictals": []
+    },
+    "group_4": {
+      "files": {
+        "chb03_31.edf": {
+          "start_original": "16:50:17",
+          "end_original": "17:50:17",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb03_32.edf": {
+          "start_original": "17:50:25",
+          "end_original": "18:50:25",
+          "start_relative": 3608,
+          "end_relative": 7208
+        },
+        "chb03_33.edf": {
+          "start_original": "18:50:32",
+          "end_original": "19:50:32",
+          "start_relative": 7215,
+          "end_relative": 10815
+        }
+      },
+      "ictals": []
+    },
+    "group_5": {
+      "files": {
+        "chb03_34.edf": {
+          "start_original": "01:51:23",
+          "end_original": "2:51:23",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb03_35.edf": {
+          "start_original": "02:51:30",
+          "end_original": "3:51:30",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb03_36.edf": {
+          "start_original": "04:51:45",
+          "end_original": "5:51:45",
+          "start_relative": 10822,
+          "end_relative": 14422
+        }
+      },
+      "ictals": [
+        [
+          1982,
+          2029
+        ],
+        [
+          6199,
+          6263
+        ],
+        [
+          12547,
+          12600
+        ]
+      ]
+    },
+    "group_6": {
+      "files": {
+        "chb03_37.edf": {
+          "start_original": "21:15:28",
+          "end_original": "22:15:28",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb03_38.edf": {
+          "start_original": "22:15:35",
+          "end_original": "23:15:35",
+          "start_relative": 3607,
+          "end_relative": 7207
+        }
+      },
+      "ictals": []
+    }
+  },
+  "chb05": {
+    "group_1": {
+      "files": {
+        "chb05_01.edf": {
+          "start_original": "17:20:05",
+          "end_original": "18:20:15",
+          "start_relative": 0,
+          "end_relative": 3610
+        },
+        "chb05_02.edf": {
+          "start_original": "18:20:57",
+          "end_original": "19:20:57",
+          "start_relative": 3652,
+          "end_relative": 7252
+        },
+        "chb05_03.edf": {
+          "start_original": "19:21:04",
+          "end_original": "20:21:04",
+          "start_relative": 7259,
+          "end_relative": 10859
+        },
+        "chb05_04.edf": {
+          "start_original": "20:21:11",
+          "end_original": "21:21:11",
+          "start_relative": 10866,
+          "end_relative": 14466
+        },
+        "chb05_05.edf": {
+          "start_original": "21:21:19",
+          "end_original": "22:21:19",
+          "start_relative": 14474,
+          "end_relative": 18074
+        },
+        "chb05_06.edf": {
+          "start_original": "22:21:25",
+          "end_original": "23:21:25",
+          "start_relative": 18080,
+          "end_relative": 21680
+        },
+        "chb05_07.edf": {
+          "start_original": "23:21:32",
+          "end_original": "24:21:32",
+          "start_relative": 21687,
+          "end_relative": 25287
+        },
+        "chb05_08.edf": {
+          "start_original": "00:21:39",
+          "end_original": "1:21:39",
+          "start_relative": 25294,
+          "end_relative": 28894
+        },
+        "chb05_09.edf": {
+          "start_original": "01:21:46",
+          "end_original": "2:21:46",
+          "start_relative": 28901,
+          "end_relative": 32501
+        },
+        "chb05_10.edf": {
+          "start_original": "02:21:53",
+          "end_original": "3:21:53",
+          "start_relative": 32508,
+          "end_relative": 36108
+        },
+        "chb05_11.edf": {
+          "start_original": "03:22:01",
+          "end_original": "4:22:01",
+          "start_relative": 36116,
+          "end_relative": 39716
+        },
+        "chb05_12.edf": {
+          "start_original": "04:22:08",
+          "end_original": "5:22:08",
+          "start_relative": 39723,
+          "end_relative": 43323
+        },
+        "chb05_13.edf": {
+          "start_original": "05:22:15",
+          "end_original": "6:22:15",
+          "start_relative": 43330,
+          "end_relative": 46930
+        },
+        "chb05_14.edf": {
+          "start_original": "06:22:21",
+          "end_original": "7:22:21",
+          "start_relative": 46936,
+          "end_relative": 50536
+        },
+        "chb05_15.edf": {
+          "start_original": "07:22:28",
+          "end_original": "8:22:28",
+          "start_relative": 50543,
+          "end_relative": 54143
+        },
+        "chb05_16.edf": {
+          "start_original": "08:22:35",
+          "end_original": "9:22:35",
+          "start_relative": 54150,
+          "end_relative": 57750
+        },
+        "chb05_17.edf": {
+          "start_original": "09:22:42",
+          "end_original": "10:22:42",
+          "start_relative": 57757,
+          "end_relative": 61357
+        },
+        "chb05_18.edf": {
+          "start_original": "10:22:50",
+          "end_original": "11:22:50",
+          "start_relative": 61365,
+          "end_relative": 64965
+        },
+        "chb05_19.edf": {
+          "start_original": "11:22:57",
+          "end_original": "12:22:57",
+          "start_relative": 64972,
+          "end_relative": 68572
+        },
+        "chb05_20.edf": {
+          "start_original": "12:23:04",
+          "end_original": "13:23:04",
+          "start_relative": 68579,
+          "end_relative": 72179
+        },
+        "chb05_21.edf": {
+          "start_original": "13:23:11",
+          "end_original": "14:23:11",
+          "start_relative": 72186,
+          "end_relative": 75786
+        },
+        "chb05_22.edf": {
+          "start_original": "14:23:17",
+          "end_original": "15:23:17",
+          "start_relative": 75792,
+          "end_relative": 79392
+        },
+        "chb05_23.edf": {
+          "start_original": "15:23:24",
+          "end_original": "16:23:24",
+          "start_relative": 79399,
+          "end_relative": 82999
+        },
+        "chb05_24.edf": {
+          "start_original": "16:23:31",
+          "end_original": "17:23:31",
+          "start_relative": 83006,
+          "end_relative": 86606
+        },
+        "chb05_25.edf": {
+          "start_original": "17:23:38",
+          "end_original": "18:23:38",
+          "start_relative": 86613,
+          "end_relative": 90213
+        },
+        "chb05_26.edf": {
+          "start_original": "18:23:46",
+          "end_original": "19:23:46",
+          "start_relative": 90221,
+          "end_relative": 93821
+        },
+        "chb05_27.edf": {
+          "start_original": "19:23:53",
+          "end_original": "20:23:53",
+          "start_relative": 93828,
+          "end_relative": 97428
+        },
+        "chb05_28.edf": {
+          "start_original": "20:24:00",
+          "end_original": "21:24:00",
+          "start_relative": 97435,
+          "end_relative": 101035
+        },
+        "chb05_29.edf": {
+          "start_original": "21:24:07",
+          "end_original": "22:24:07",
+          "start_relative": 101042,
+          "end_relative": 104642
+        },
+        "chb05_30.edf": {
+          "start_original": "22:24:14",
+          "end_original": "23:24:14",
+          "start_relative": 104649,
+          "end_relative": 108249
+        },
+        "chb05_31.edf": {
+          "start_original": "23:24:21",
+          "end_original": "24:24:21",
+          "start_relative": 108256,
+          "end_relative": 111856
+        },
+        "chb05_32.edf": {
+          "start_original": "00:24:28",
+          "end_original": "1:24:28",
+          "start_relative": 111863,
+          "end_relative": 115463
+        },
+        "chb05_33.edf": {
+          "start_original": "01:24:35",
+          "end_original": "2:24:35",
+          "start_relative": 115470,
+          "end_relative": 119070
+        },
+        "chb05_34.edf": {
+          "start_original": "02:24:42",
+          "end_original": "3:24:42",
+          "start_relative": 119077,
+          "end_relative": 122677
+        },
+        "chb05_35.edf": {
+          "start_original": "03:24:49",
+          "end_original": "4:24:49",
+          "start_relative": 122684,
+          "end_relative": 126284
+        },
+        "chb05_36.edf": {
+          "start_original": "04:24:56",
+          "end_original": "5:24:56",
+          "start_relative": 126291,
+          "end_relative": 129891
+        },
+        "chb05_37.edf": {
+          "start_original": "05:25:03",
+          "end_original": "6:25:03",
+          "start_relative": 129898,
+          "end_relative": 133498
+        },
+        "chb05_38.edf": {
+          "start_original": "06:25:10",
+          "end_original": "7:25:10",
+          "start_relative": 133505,
+          "end_relative": 137105
+        },
+        "chb05_39.edf": {
+          "start_original": "07:25:17",
+          "end_original": "8:25:17",
+          "start_relative": 137112,
+          "end_relative": 140712
+        }
+      },
+      "ictals": [
+        [
+          18497,
+          18612
+        ],
+        [
+          44416,
+          44526
+        ],
+        [
+          56467,
+          56563
+        ],
+        [
+          60208,
+          60328
+        ],
+        [
+          78140,
+          78257
+        ]
+      ]
+    }
+  },
+  "chb07": {
+    "group_1": {
+      "files": {
+        "chb07_01.edf": {
+          "start_original": "16:58:28",
+          "end_original": "20:58:39",
+          "start_relative": 0,
+          "end_relative": 14411
+        },
+        "chb07_02.edf": {
+          "start_original": "21:00:13",
+          "end_original": "25:00:13",
+          "start_relative": 14505,
+          "end_relative": 28905
+        },
+        "chb07_03.edf": {
+          "start_original": "01:00:21",
+          "end_original": "5:00:21",
+          "start_relative": 28913,
+          "end_relative": 43313
+        },
+        "chb07_04.edf": {
+          "start_original": "05:00:29",
+          "end_original": "9:00:29",
+          "start_relative": 43321,
+          "end_relative": 57721
+        },
+        "chb07_05.edf": {
+          "start_original": "09:00:36",
+          "end_original": "13:00:36",
+          "start_relative": 57728,
+          "end_relative": 72128
+        },
+        "chb07_06.edf": {
+          "start_original": "13:00:44",
+          "end_original": "14:22:44",
+          "start_relative": 72136,
+          "end_relative": 77056
+        },
+        "chb07_07.edf": {
+          "start_original": "14:23:26",
+          "end_original": "15:41:06",
+          "start_relative": 77098,
+          "end_relative": 81758
+        },
+        "chb07_08.edf": {
+          "start_original": "15:45:54",
+          "end_original": "19:45:54",
+          "start_relative": 82046,
+          "end_relative": 96446
+        },
+        "chb07_09.edf": {
+          "start_original": "19:45:58",
+          "end_original": "23:45:58",
+          "start_relative": 96450,
+          "end_relative": 110850
+        },
+        "chb07_10.edf": {
+          "start_original": "23:46:06",
+          "end_original": "27:46:06",
+          "start_relative": 110858,
+          "end_relative": 125258
+        },
+        "chb07_11.edf": {
+          "start_original": "03:46:13",
+          "end_original": "7:46:13",
+          "start_relative": 125265,
+          "end_relative": 139665
+        },
+        "chb07_12.edf": {
+          "start_original": "07:46:22",
+          "end_original": "11:46:22",
+          "start_relative": 139674,
+          "end_relative": 154074
+        },
+        "chb07_13.edf": {
+          "start_original": "11:46:29",
+          "end_original": "12:48:35",
+          "start_relative": 154081,
+          "end_relative": 157807
+        },
+        "chb07_14.edf": {
+          "start_original": "12:48:54",
+          "end_original": "16:48:54",
+          "start_relative": 157826,
+          "end_relative": 172226
+        },
+        "chb07_15.edf": {
+          "start_original": "16:48:58",
+          "end_original": "20:48:58",
+          "start_relative": 172230,
+          "end_relative": 186630
+        },
+        "chb07_16.edf": {
+          "start_original": "20:49:06",
+          "end_original": "24:49:06",
+          "start_relative": 186638,
+          "end_relative": 201038
+        },
+        "chb07_17.edf": {
+          "start_original": "00:49:19",
+          "end_original": "4:49:19",
+          "start_relative": 201051,
+          "end_relative": 215451
+        },
+        "chb07_18.edf": {
+          "start_original": "04:49:28",
+          "end_original": "8:10:28",
+          "start_relative": 215460,
+          "end_relative": 227520
+        },
+        "chb07_19.edf": {
+          "start_original": "08:12:32",
+          "end_original": "12:12:43",
+          "start_relative": 227644,
+          "end_relative": 242055
+        }
+      },
+      "ictals": [
+        [
+          144594,
+          144680
+        ],
+        [
+          157366,
+          157462
+        ],
+        [
+          241332,
+          241475
+        ]
+      ]
+    }
+  },
+  "chb08": {
+    "group_1": {
+      "files": {
+        "chb08_02.edf": {
+          "start_original": "12:28:57",
+          "end_original": "13:28:57",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb08_03.edf": {
+          "start_original": "13:28:59",
+          "end_original": "14:28:59",
+          "start_relative": 3602,
+          "end_relative": 7202
+        },
+        "chb08_04.edf": {
+          "start_original": "14:29:07",
+          "end_original": "15:29:07",
+          "start_relative": 7210,
+          "end_relative": 10810
+        },
+        "chb08_05.edf": {
+          "start_original": "15:29:14",
+          "end_original": "16:29:14",
+          "start_relative": 10817,
+          "end_relative": 14417
+        }
+      },
+      "ictals": [
+        [
+          2670,
+          2841
+        ],
+        [
+          13673,
+          13863
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "chb08_10.edf": {
+          "start_original": "19:36:54",
+          "end_original": "20:36:54",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb08_11.edf": {
+          "start_original": "20:37:01",
+          "end_original": "21:37:01",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb08_12.edf": {
+          "start_original": "21:37:08",
+          "end_original": "22:37:08",
+          "start_relative": 7214,
+          "end_relative": 10814
+        },
+        "chb08_13.edf": {
+          "start_original": "22:37:16",
+          "end_original": "23:37:16",
+          "start_relative": 10822,
+          "end_relative": 14422
+        },
+        "chb08_14.edf": {
+          "start_original": "23:37:23",
+          "end_original": "24:37:23",
+          "start_relative": 14429,
+          "end_relative": 18029
+        },
+        "chb08_15.edf": {
+          "start_original": "00:37:31",
+          "end_original": "1:37:31",
+          "start_relative": 18037,
+          "end_relative": 21637
+        },
+        "chb08_16.edf": {
+          "start_original": "01:37:38",
+          "end_original": "2:37:38",
+          "start_relative": 21644,
+          "end_relative": 25244
+        },
+        "chb08_17.edf": {
+          "start_original": "02:37:46",
+          "end_original": "3:37:46",
+          "start_relative": 25252,
+          "end_relative": 28852
+        },
+        "chb08_18.edf": {
+          "start_original": "03:37:53",
+          "end_original": "4:37:53",
+          "start_relative": 28859,
+          "end_relative": 32459
+        },
+        "chb08_19.edf": {
+          "start_original": "04:38:01",
+          "end_original": "5:38:01",
+          "start_relative": 32467,
+          "end_relative": 36067
+        },
+        "chb08_20.edf": {
+          "start_original": "05:38:08",
+          "end_original": "6:38:08",
+          "start_relative": 36074,
+          "end_relative": 39674
+        },
+        "chb08_21.edf": {
+          "start_original": "06:38:16",
+          "end_original": "7:38:16",
+          "start_relative": 39682,
+          "end_relative": 43282
+        },
+        "chb08_22.edf": {
+          "start_original": "07:38:23",
+          "end_original": "8:38:23",
+          "start_relative": 43289,
+          "end_relative": 46889
+        },
+        "chb08_23.edf": {
+          "start_original": "08:38:31",
+          "end_original": "9:38:31",
+          "start_relative": 46897,
+          "end_relative": 50497
+        },
+        "chb08_24.edf": {
+          "start_original": "09:38:38",
+          "end_original": "10:38:38",
+          "start_relative": 50504,
+          "end_relative": 54104
+        }
+      },
+      "ictals": [
+        [
+          6595,
+          6729
+        ],
+        [
+          13239,
+          13399
+        ],
+        [
+          41765,
+          42029
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "chb08_29.edf": {
+          "start_original": "13:51:25",
+          "end_original": "14:51:48",
+          "start_relative": 0,
+          "end_relative": 3623
+        }
+      },
+      "ictals": []
+    }
+  },
+  "chb09": {
+    "group_1": {
+      "files": {
+        "chb09_01.edf": {
+          "start_original": "17:59:37",
+          "end_original": "20:13:20",
+          "start_relative": 0,
+          "end_relative": 8023
+        },
+        "chb09_02.edf": {
+          "start_original": "20:14:28",
+          "end_original": "24:14:27",
+          "start_relative": 8091,
+          "end_relative": 22490
+        },
+        "chb09_03.edf": {
+          "start_original": "00:20:27",
+          "end_original": "4:20:27",
+          "start_relative": 22850,
+          "end_relative": 37250
+        },
+        "chb09_04.edf": {
+          "start_original": "04:20:30",
+          "end_original": "8:20:45",
+          "start_relative": 37253,
+          "end_relative": 51668
+        },
+        "chb09_05.edf": {
+          "start_original": "08:21:34",
+          "end_original": "12:21:34",
+          "start_relative": 51717,
+          "end_relative": 66117
+        },
+        "chb09_06.edf": {
+          "start_original": "12:21:42",
+          "end_original": "16:21:41",
+          "start_relative": 66125,
+          "end_relative": 80524
+        },
+        "chb09_07.edf": {
+          "start_original": "16:22:09",
+          "end_original": "20:22:09",
+          "start_relative": 80552,
+          "end_relative": 94952
+        },
+        "chb09_08.edf": {
+          "start_original": "20:22:17",
+          "end_original": "24:22:17",
+          "start_relative": 94960,
+          "end_relative": 109360
+        },
+        "chb09_09.edf": {
+          "start_original": "00:22:25",
+          "end_original": "4:22:25",
+          "start_relative": 109368,
+          "end_relative": 123768
+        },
+        "chb09_10.edf": {
+          "start_original": "04:22:33",
+          "end_original": "8:22:33",
+          "start_relative": 123776,
+          "end_relative": 138176
+        },
+        "chb09_11.edf": {
+          "start_original": "08:22:40",
+          "end_original": "12:22:40",
+          "start_relative": 138183,
+          "end_relative": 152583
+        },
+        "chb09_12.edf": {
+          "start_original": "12:22:47",
+          "end_original": "16:22:47",
+          "start_relative": 152590,
+          "end_relative": 166990
+        },
+        "chb09_13.edf": {
+          "start_original": "16:23:00",
+          "end_original": "20:23:05",
+          "start_relative": 167003,
+          "end_relative": 181408
+        },
+        "chb09_14.edf": {
+          "start_original": "20:23:54",
+          "end_original": "24:24:05",
+          "start_relative": 181457,
+          "end_relative": 195868
+        },
+        "chb09_15.edf": {
+          "start_original": "00:26:59",
+          "end_original": "4:27:20",
+          "start_relative": 196042,
+          "end_relative": 210463
+        },
+        "chb09_16.edf": {
+          "start_original": "04:28:46",
+          "end_original": "8:15:17",
+          "start_relative": 210549,
+          "end_relative": 224140
+        },
+        "chb09_17.edf": {
+          "start_original": "08:16:09",
+          "end_original": "8:32:23",
+          "start_relative": 224192,
+          "end_relative": 225166
+        },
+        "chb09_18.edf": {
+          "start_original": "08:34:42",
+          "end_original": "12:34:42",
+          "start_relative": 225305,
+          "end_relative": 239705
+        },
+        "chb09_19.edf": {
+          "start_original": "12:34:46",
+          "end_original": "14:09:46",
+          "start_relative": 239709,
+          "end_relative": 245409
+        }
+      },
+      "ictals": [
+        [
+          78356,
+          78420
+        ],
+        [
+          97911,
+          97990
+        ],
+        [
+          104156,
+          104227
+        ],
+        [
+          245008,
+          245070
+        ]
+      ]
+    }
+  },
+  "chb10": {
+    "group_1": {
+      "files": {
+        "chb10_01.edf": {
+          "start_original": "17:52:43",
+          "end_original": "19:53:03",
+          "start_relative": 0,
+          "end_relative": 7220
+        },
+        "chb10_02.edf": {
+          "start_original": "19:53:45",
+          "end_original": "21:53:45",
+          "start_relative": 7262,
+          "end_relative": 14462
+        },
+        "chb10_03.edf": {
+          "start_original": "21:53:52",
+          "end_original": "23:53:52",
+          "start_relative": 14469,
+          "end_relative": 21669
+        },
+        "chb10_04.edf": {
+          "start_original": "23:54:00",
+          "end_original": "25:54:00",
+          "start_relative": 21677,
+          "end_relative": 28877
+        },
+        "chb10_05.edf": {
+          "start_original": "01:54:07",
+          "end_original": "3:54:07",
+          "start_relative": 28884,
+          "end_relative": 36084
+        },
+        "chb10_06.edf": {
+          "start_original": "03:54:15",
+          "end_original": "5:54:15",
+          "start_relative": 36092,
+          "end_relative": 43292
+        },
+        "chb10_07.edf": {
+          "start_original": "05:54:23",
+          "end_original": "7:54:23",
+          "start_relative": 43300,
+          "end_relative": 50500
+        },
+        "chb10_08.edf": {
+          "start_original": "07:54:30",
+          "end_original": "9:54:30",
+          "start_relative": 50507,
+          "end_relative": 57707
+        }
+      },
+      "ictals": []
+    },
+    "group_2": {
+      "files": {
+        "chb10_12.edf": {
+          "start_original": "15:55:00",
+          "end_original": "17:55:00",
+          "start_relative": 0,
+          "end_relative": 7200
+        },
+        "chb10_13.edf": {
+          "start_original": "17:55:08",
+          "end_original": "19:55:08",
+          "start_relative": 7208,
+          "end_relative": 14408
+        },
+        "chb10_14.edf": {
+          "start_original": "19:55:15",
+          "end_original": "21:55:15",
+          "start_relative": 14415,
+          "end_relative": 21615
+        },
+        "chb10_15.edf": {
+          "start_original": "21:55:23",
+          "end_original": "23:55:23",
+          "start_relative": 21623,
+          "end_relative": 28823
+        },
+        "chb10_16.edf": {
+          "start_original": "23:55:30",
+          "end_original": "25:55:30",
+          "start_relative": 28830,
+          "end_relative": 36030
+        },
+        "chb10_17.edf": {
+          "start_original": "01:55:37",
+          "end_original": "3:55:37",
+          "start_relative": 36037,
+          "end_relative": 43237
+        },
+        "chb10_18.edf": {
+          "start_original": "03:55:45",
+          "end_original": "5:55:45",
+          "start_relative": 43245,
+          "end_relative": 50445
+        },
+        "chb10_19.edf": {
+          "start_original": "05:55:52",
+          "end_original": "7:55:52",
+          "start_relative": 50452,
+          "end_relative": 57652
+        },
+        "chb10_20.edf": {
+          "start_original": "07:56:00",
+          "end_original": "9:56:12",
+          "start_relative": 57660,
+          "end_relative": 64872
+        },
+        "chb10_21.edf": {
+          "start_original": "09:58:35",
+          "end_original": "11:58:35",
+          "start_relative": 65015,
+          "end_relative": 72215
+        },
+        "chb10_22.edf": {
+          "start_original": "11:58:43",
+          "end_original": "13:58:43",
+          "start_relative": 72223,
+          "end_relative": 79423
+        }
+      },
+      "ictals": [
+        [
+          6313,
+          6348
+        ],
+        [
+          64548,
+          64618
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "chb10_27.edf": {
+          "start_original": "22:02:08",
+          "end_original": "24:02:26",
+          "start_relative": 0,
+          "end_relative": 7218
+        },
+        "chb10_28.edf": {
+          "start_original": "00:03:04",
+          "end_original": "2:03:04",
+          "start_relative": 7256,
+          "end_relative": 14456
+        }
+      },
+      "ictals": [
+        [
+          2382,
+          2447
+        ]
+      ]
+    },
+    "group_4": {
+      "files": {
+        "chb10_30.edf": {
+          "start_original": "04:03:19",
+          "end_original": "6:03:32",
+          "start_relative": 0,
+          "end_relative": 7213
+        },
+        "chb10_31.edf": {
+          "start_original": "06:04:00",
+          "end_original": "8:04:21",
+          "start_relative": 7241,
+          "end_relative": 14462
+        }
+      },
+      "ictals": [
+        [
+          3021,
+          3079
+        ],
+        [
+          11042,
+          11118
+        ]
+      ]
+    },
+    "group_5": {
+      "files": {
+        "chb10_38.edf": {
+          "start_original": "14:33:05",
+          "end_original": "16:33:05",
+          "start_relative": 0,
+          "end_relative": 7200
+        }
+      },
+      "ictals": [
+        [
+          4618,
+          4707
+        ]
+      ]
+    },
+    "group_6": {
+      "files": {
+        "chb10_89.edf": {
+          "start_original": "16:21:55",
+          "end_original": "18:21:55",
+          "start_relative": 0,
+          "end_relative": 7200
+        }
+      },
+      "ictals": [
+        [
+          1383,
+          1437
+        ]
+      ]
+    }
+  },
+  "chb14": {
+    "group_1": {
+      "files": {
+        "chb14_01.edf": {
+          "start_original": "14:34:50",
+          "end_original": "15:34:50",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb14_02.edf": {
+          "start_original": "15:34:53",
+          "end_original": "16:34:53",
+          "start_relative": 3603,
+          "end_relative": 7203
+        },
+        "chb14_03.edf": {
+          "start_original": "16:35:00",
+          "end_original": "17:35:00",
+          "start_relative": 7210,
+          "end_relative": 10810
+        },
+        "chb14_04.edf": {
+          "start_original": "17:35:07",
+          "end_original": "18:35:07",
+          "start_relative": 10817,
+          "end_relative": 14417
+        },
+        "chb14_06.edf": {
+          "start_original": "19:35:21",
+          "end_original": "20:35:21",
+          "start_relative": 18031,
+          "end_relative": 21631
+        },
+        "chb14_07.edf": {
+          "start_original": "20:35:28",
+          "end_original": "21:35:28",
+          "start_relative": 21638,
+          "end_relative": 25238
+        }
+      },
+      "ictals": [
+        [
+          9196,
+          9210
+        ],
+        [
+          12189,
+          12209
+        ],
+        [
+          13634,
+          13656
+        ],
+        [
+          19942,
+          19956
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "chb14_11.edf": {
+          "start_original": "00:35:55",
+          "end_original": "1:35:55",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb14_12.edf": {
+          "start_original": "01:36:02",
+          "end_original": "2:36:02",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb14_13.edf": {
+          "start_original": "02:36:09",
+          "end_original": "3:36:09",
+          "start_relative": 7214,
+          "end_relative": 10814
+        },
+        "chb14_14.edf": {
+          "start_original": "03:36:16",
+          "end_original": "4:36:16",
+          "start_relative": 10821,
+          "end_relative": 14421
+        },
+        "chb14_16.edf": {
+          "start_original": "05:36:29",
+          "end_original": "6:36:29",
+          "start_relative": 18034,
+          "end_relative": 21634
+        },
+        "chb14_17.edf": {
+          "start_original": "06:36:36",
+          "end_original": "7:36:36",
+          "start_relative": 21641,
+          "end_relative": 25241
+        },
+        "chb14_18.edf": {
+          "start_original": "07:36:43",
+          "end_original": "8:36:43",
+          "start_relative": 25248,
+          "end_relative": 28848
+        },
+        "chb14_19.edf": {
+          "start_original": "08:36:50",
+          "end_original": "9:36:50",
+          "start_relative": 28855,
+          "end_relative": 32455
+        },
+        "chb14_20.edf": {
+          "start_original": "09:36:57",
+          "end_original": "10:36:57",
+          "start_relative": 32462,
+          "end_relative": 36062
+        },
+        "chb14_22.edf": {
+          "start_original": "11:37:11",
+          "end_original": "12:37:11",
+          "start_relative": 39676,
+          "end_relative": 43276
+        },
+        "chb14_24.edf": {
+          "start_original": "13:37:25",
+          "end_original": "14:37:25",
+          "start_relative": 46890,
+          "end_relative": 50490
+        },
+        "chb14_25.edf": {
+          "start_original": "14:37:31",
+          "end_original": "15:37:31",
+          "start_relative": 50496,
+          "end_relative": 54096
+        },
+        "chb14_26.edf": {
+          "start_original": "15:37:38",
+          "end_original": "16:37:38",
+          "start_relative": 54103,
+          "end_relative": 57703
+        },
+        "chb14_27.edf": {
+          "start_original": "16:37:45",
+          "end_original": "17:37:45",
+          "start_relative": 57710,
+          "end_relative": 61310
+        },
+        "chb14_29.edf": {
+          "start_original": "18:37:59",
+          "end_original": "19:37:59",
+          "start_relative": 64924,
+          "end_relative": 68524
+        },
+        "chb14_30.edf": {
+          "start_original": "19:38:06",
+          "end_original": "20:38:06",
+          "start_relative": 68531,
+          "end_relative": 72131
+        },
+        "chb14_32.edf": {
+          "start_original": "21:38:19",
+          "end_original": "22:38:19",
+          "start_relative": 75744,
+          "end_relative": 79344
+        }
+      },
+      "ictals": [
+        [
+          1838,
+          1879
+        ],
+        [
+          24880,
+          24900
+        ],
+        [
+          26287,
+          26309
+        ],
+        [
+          60543,
+          60559
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "chb14_37.edf": {
+          "start_original": "02:38:53",
+          "end_original": "3:38:53",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb14_39.edf": {
+          "start_original": "04:39:07",
+          "end_original": "5:39:07",
+          "start_relative": 7214,
+          "end_relative": 10814
+        }
+      },
+      "ictals": []
+    },
+    "group_4": {
+      "files": {
+        "chb14_42.edf": {
+          "start_original": "07:39:28",
+          "end_original": "8:39:28",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    }
+  },
+  "chb16": {
+    "group_1": {
+      "files": {
+        "chb16_01.edf": {
+          "start_original": "16:39:42",
+          "end_original": "17:39:42",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb16_02.edf": {
+          "start_original": "17:39:45",
+          "end_original": "18:39:45",
+          "start_relative": 3603,
+          "end_relative": 7203
+        },
+        "chb16_03.edf": {
+          "start_original": "18:39:52",
+          "end_original": "19:39:52",
+          "start_relative": 7210,
+          "end_relative": 10810
+        },
+        "chb16_04.edf": {
+          "start_original": "19:39:58",
+          "end_original": "20:39:58",
+          "start_relative": 10816,
+          "end_relative": 14416
+        },
+        "chb16_05.edf": {
+          "start_original": "20:40:05",
+          "end_original": "21:40:05",
+          "start_relative": 14423,
+          "end_relative": 18023
+        },
+        "chb16_06.edf": {
+          "start_original": "21:40:12",
+          "end_original": "22:40:12",
+          "start_relative": 18030,
+          "end_relative": 21630
+        },
+        "chb16_07.edf": {
+          "start_original": "22:40:19",
+          "end_original": "23:40:19",
+          "start_relative": 21637,
+          "end_relative": 25237
+        },
+        "chb16_08.edf": {
+          "start_original": "23:40:26",
+          "end_original": "24:40:26",
+          "start_relative": 25244,
+          "end_relative": 28844
+        },
+        "chb16_09.edf": {
+          "start_original": "00:40:33",
+          "end_original": "1:40:33",
+          "start_relative": 28851,
+          "end_relative": 32451
+        },
+        "chb16_10.edf": {
+          "start_original": "01:40:40",
+          "end_original": "2:40:40",
+          "start_relative": 32458,
+          "end_relative": 36058
+        },
+        "chb16_11.edf": {
+          "start_original": "02:40:47",
+          "end_original": "3:40:47",
+          "start_relative": 36065,
+          "end_relative": 39665
+        },
+        "chb16_12.edf": {
+          "start_original": "03:40:54",
+          "end_original": "4:40:54",
+          "start_relative": 39672,
+          "end_relative": 43272
+        },
+        "chb16_13.edf": {
+          "start_original": "04:41:01",
+          "end_original": "5:41:01",
+          "start_relative": 43279,
+          "end_relative": 46879
+        },
+        "chb16_14.edf": {
+          "start_original": "05:41:08",
+          "end_original": "6:41:08",
+          "start_relative": 46886,
+          "end_relative": 50486
+        },
+        "chb16_15.edf": {
+          "start_original": "06:41:15",
+          "end_original": "7:41:15",
+          "start_relative": 50493,
+          "end_relative": 54093
+        },
+        "chb16_16.edf": {
+          "start_original": "07:41:22",
+          "end_original": "8:41:22",
+          "start_relative": 54100,
+          "end_relative": 57700
+        },
+        "chb16_17.edf": {
+          "start_original": "08:41:29",
+          "end_original": "9:41:29",
+          "start_relative": 57707,
+          "end_relative": 61307
+        },
+        "chb16_18.edf": {
+          "start_original": "09:41:36",
+          "end_original": "10:41:36",
+          "start_relative": 61314,
+          "end_relative": 64914
+        },
+        "chb16_19.edf": {
+          "start_original": "10:41:43",
+          "end_original": "11:41:43",
+          "start_relative": 64921,
+          "end_relative": 68521
+        }
+      },
+      "ictals": [
+        [
+          34748,
+          34757
+        ],
+        [
+          37185,
+          37194
+        ],
+        [
+          48740,
+          48754
+        ],
+        [
+          55314,
+          55320
+        ],
+        [
+          57934,
+          57943
+        ],
+        [
+          59401,
+          59407
+        ],
+        [
+          59869,
+          59877
+        ],
+        [
+          60997,
+          61005
+        ],
+        [
+          61941,
+          61949
+        ],
+        [
+          63223,
+          63230
+        ]
+      ]
+    }
+  },
+  "chb17": {
+    "group_1": {
+      "files": {
+        "chb17a_03.edf": {
+          "start_original": "19:47:38",
+          "end_original": "20:47:38",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb17a_04.edf": {
+          "start_original": "20:47:45",
+          "end_original": "21:47:45",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb17a_05.edf": {
+          "start_original": "21:47:52",
+          "end_original": "22:47:52",
+          "start_relative": 7214,
+          "end_relative": 10814
+        },
+        "chb17a_06.edf": {
+          "start_original": "22:47:59",
+          "end_original": "23:47:59",
+          "start_relative": 10821,
+          "end_relative": 14421
+        },
+        "chb17a_08.edf": {
+          "start_original": "00:48:39",
+          "end_original": "1:48:39",
+          "start_relative": 18061,
+          "end_relative": 21661
+        },
+        "chb17b_57.edf": {
+          "start_original": "01:59:21",
+          "end_original": "2:59:21",
+          "start_relative": 22303,
+          "end_relative": 25903
+        },
+        "chb17b_58.edf": {
+          "start_original": "02:59:28",
+          "end_original": "3:59:28",
+          "start_relative": 25910,
+          "end_relative": 29510
+        },
+        "chb17b_59.edf": {
+          "start_original": "03:59:35",
+          "end_original": "4:59:35",
+          "start_relative": 29517,
+          "end_relative": 33117
+        },
+        "chb17b_60.edf": {
+          "start_original": "04:59:41",
+          "end_original": "5:59:41",
+          "start_relative": 33123,
+          "end_relative": 36723
+        }
+      },
+      "ictals": [
+        [
+          2282,
+          2372
+        ],
+        [
+          6632,
+          6747
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "chb17b_63.edf": {
+          "start_original": "08:00:02",
+          "end_original": "9:00:26",
+          "start_relative": 0,
+          "end_relative": 3624
+        }
+      },
+      "ictals": [
+        [
+          3136,
+          3224
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "chb17b_67.edf": {
+          "start_original": "11:40:36",
+          "end_original": "12:40:36",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb17b_68.edf": {
+          "start_original": "12:40:43",
+          "end_original": "13:40:43",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb17b_69.edf": {
+          "start_original": "13:40:50",
+          "end_original": "14:40:50",
+          "start_relative": 7214,
+          "end_relative": 10814
+        }
+      },
+      "ictals": []
+    },
+    "group_4": {
+      "files": {
+        "chb17c_02.edf": {
+          "start_original": "22:53:46",
+          "end_original": "23:53:46",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb17c_03.edf": {
+          "start_original": "23:53:53",
+          "end_original": "24:53:53",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb17c_04.edf": {
+          "start_original": "00:54:00",
+          "end_original": "1:54:00",
+          "start_relative": 7214,
+          "end_relative": 10814
+        },
+        "chb17c_05.edf": {
+          "start_original": "01:54:06",
+          "end_original": "2:54:06",
+          "start_relative": 10820,
+          "end_relative": 14420
+        },
+        "chb17c_06.edf": {
+          "start_original": "02:54:13",
+          "end_original": "3:54:13",
+          "start_relative": 14427,
+          "end_relative": 18027
+        },
+        "chb17c_07.edf": {
+          "start_original": "03:54:20",
+          "end_original": "4:54:20",
+          "start_relative": 18034,
+          "end_relative": 21634
+        },
+        "chb17c_08.edf": {
+          "start_original": "04:54:27",
+          "end_original": "5:54:27",
+          "start_relative": 21641,
+          "end_relative": 25241
+        }
+      },
+      "ictals": []
+    },
+    "group_5": {
+      "files": {
+        "chb17c_13.edf": {
+          "start_original": "09:59:42",
+          "end_original": "10:59:42",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    }
+  },
+  "chb18": {
+    "group_1": {
+      "files": {
+        "chb18_01.edf": {
+          "start_original": "17:53:23",
+          "end_original": "18:53:34",
+          "start_relative": 0,
+          "end_relative": 3611
+        },
+        "chb18_02.edf": {
+          "start_original": "18:54:57",
+          "end_original": "19:54:57",
+          "start_relative": 3694,
+          "end_relative": 7294
+        },
+        "chb18_03.edf": {
+          "start_original": "19:55:04",
+          "end_original": "20:55:04",
+          "start_relative": 7301,
+          "end_relative": 10901
+        },
+        "chb18_04.edf": {
+          "start_original": "20:55:11",
+          "end_original": "21:55:11",
+          "start_relative": 10908,
+          "end_relative": 14508
+        },
+        "chb18_05.edf": {
+          "start_original": "21:55:18",
+          "end_original": "22:55:18",
+          "start_relative": 14515,
+          "end_relative": 18115
+        },
+        "chb18_06.edf": {
+          "start_original": "22:55:25",
+          "end_original": "23:55:25",
+          "start_relative": 18122,
+          "end_relative": 21722
+        },
+        "chb18_07.edf": {
+          "start_original": "23:55:32",
+          "end_original": "24:55:32",
+          "start_relative": 21729,
+          "end_relative": 25329
+        },
+        "chb18_08.edf": {
+          "start_original": "00:55:38",
+          "end_original": "1:55:38",
+          "start_relative": 25335,
+          "end_relative": 28935
+        },
+        "chb18_09.edf": {
+          "start_original": "01:55:45",
+          "end_original": "2:55:45",
+          "start_relative": 28942,
+          "end_relative": 32542
+        },
+        "chb18_10.edf": {
+          "start_original": "02:55:52",
+          "end_original": "3:55:52",
+          "start_relative": 32549,
+          "end_relative": 36149
+        },
+        "chb18_11.edf": {
+          "start_original": "03:55:59",
+          "end_original": "4:55:59",
+          "start_relative": 36156,
+          "end_relative": 39756
+        },
+        "chb18_12.edf": {
+          "start_original": "04:56:06",
+          "end_original": "5:56:06",
+          "start_relative": 39763,
+          "end_relative": 43363
+        },
+        "chb18_13.edf": {
+          "start_original": "05:56:13",
+          "end_original": "6:56:13",
+          "start_relative": 43370,
+          "end_relative": 46970
+        },
+        "chb18_14.edf": {
+          "start_original": "06:56:19",
+          "end_original": "7:56:19",
+          "start_relative": 46976,
+          "end_relative": 50576
+        },
+        "chb18_15.edf": {
+          "start_original": "07:56:26",
+          "end_original": "8:56:26",
+          "start_relative": 50583,
+          "end_relative": 54183
+        },
+        "chb18_16.edf": {
+          "start_original": "08:56:33",
+          "end_original": "9:56:33",
+          "start_relative": 54190,
+          "end_relative": 57790
+        },
+        "chb18_17.edf": {
+          "start_original": "09:56:40",
+          "end_original": "10:56:40",
+          "start_relative": 57797,
+          "end_relative": 61397
+        }
+      },
+      "ictals": []
+    },
+    "group_2": {
+      "files": {
+        "chb18_18.edf": {
+          "start_original": "16:57:30",
+          "end_original": "17:57:30",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb18_19.edf": {
+          "start_original": "17:57:37",
+          "end_original": "18:57:37",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb18_20.edf": {
+          "start_original": "18:57:44",
+          "end_original": "19:57:44",
+          "start_relative": 7214,
+          "end_relative": 10814
+        },
+        "chb18_21.edf": {
+          "start_original": "19:57:50",
+          "end_original": "20:57:50",
+          "start_relative": 10820,
+          "end_relative": 14420
+        },
+        "chb18_22.edf": {
+          "start_original": "20:57:57",
+          "end_original": "21:57:57",
+          "start_relative": 14427,
+          "end_relative": 18027
+        }
+      },
+      "ictals": []
+    },
+    "group_3": {
+      "files": {
+        "chb18_23.edf": {
+          "start_original": "23:58:18",
+          "end_original": "24:58:18",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb18_24.edf": {
+          "start_original": "00:58:25",
+          "end_original": "1:58:25",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb18_25.edf": {
+          "start_original": "01:58:31",
+          "end_original": "2:58:31",
+          "start_relative": 7213,
+          "end_relative": 10813
+        },
+        "chb18_26.edf": {
+          "start_original": "02:58:38",
+          "end_original": "3:58:38",
+          "start_relative": 10820,
+          "end_relative": 14420
+        },
+        "chb18_27.edf": {
+          "start_original": "03:58:45",
+          "end_original": "4:58:45",
+          "start_relative": 14427,
+          "end_relative": 18027
+        },
+        "chb18_28.edf": {
+          "start_original": "04:58:52",
+          "end_original": "5:58:52",
+          "start_relative": 18034,
+          "end_relative": 21634
+        },
+        "chb18_29.edf": {
+          "start_original": "05:58:59",
+          "end_original": "6:58:59",
+          "start_relative": 21641,
+          "end_relative": 25241
+        },
+        "chb18_30.edf": {
+          "start_original": "06:59:06",
+          "end_original": "7:59:06",
+          "start_relative": 25248,
+          "end_relative": 28848
+        }
+      },
+      "ictals": [
+        [
+          25118,
+          25168
+        ],
+        [
+          25789,
+          25819
+        ]
+      ]
+    },
+    "group_4": {
+      "files": {
+        "chb18_31.edf": {
+          "start_original": "10:00:32",
+          "end_original": "10:38:26",
+          "start_relative": 0,
+          "end_relative": 2274
+        },
+        "chb18_32.edf": {
+          "start_original": "11:38:42",
+          "end_original": "12:38:42",
+          "start_relative": 5890,
+          "end_relative": 9490
+        }
+      },
+      "ictals": [
+        [
+          2087,
+          2155
+        ],
+        [
+          7798,
+          7853
+        ]
+      ]
+    },
+    "group_5": {
+      "files": {
+        "chb18_33.edf": {
+          "start_original": "15:39:10",
+          "end_original": "16:39:10",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    },
+    "group_6": {
+      "files": {
+        "chb18_34.edf": {
+          "start_original": "19:40:40",
+          "end_original": "20:40:40",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    },
+    "group_7": {
+      "files": {
+        "chb18_35.edf": {
+          "start_original": "08:42:06",
+          "end_original": "9:42:06",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": [
+        [
+          2196,
+          2264
+        ]
+      ]
+    },
+    "group_8": {
+      "files": {
+        "chb18_36.edf": {
+          "start_original": "08:45:57",
+          "end_original": "9:45:57",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": [
+        [
+          463,
+          509
+        ]
+      ]
+    }
+  },
+  "chb19": {
+    "group_1": {
+      "files": {
+        "chb19_01.edf": {
+          "start_original": "17:36:30",
+          "end_original": "18:36:30",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb19_02.edf": {
+          "start_original": "18:36:32",
+          "end_original": "19:36:32",
+          "start_relative": 3602,
+          "end_relative": 7202
+        },
+        "chb19_03.edf": {
+          "start_original": "19:36:40",
+          "end_original": "20:36:40",
+          "start_relative": 7210,
+          "end_relative": 10810
+        },
+        "chb19_04.edf": {
+          "start_original": "20:36:46",
+          "end_original": "21:36:46",
+          "start_relative": 10816,
+          "end_relative": 14416
+        },
+        "chb19_05.edf": {
+          "start_original": "21:36:53",
+          "end_original": "22:36:53",
+          "start_relative": 14423,
+          "end_relative": 18023
+        },
+        "chb19_06.edf": {
+          "start_original": "22:37:00",
+          "end_original": "23:37:00",
+          "start_relative": 18030,
+          "end_relative": 21630
+        },
+        "chb19_07.edf": {
+          "start_original": "23:37:07",
+          "end_original": "24:37:07",
+          "start_relative": 21637,
+          "end_relative": 25237
+        },
+        "chb19_08.edf": {
+          "start_original": "00:37:14",
+          "end_original": "1:37:14",
+          "start_relative": 25244,
+          "end_relative": 28844
+        },
+        "chb19_09.edf": {
+          "start_original": "01:37:20",
+          "end_original": "2:37:20",
+          "start_relative": 28850,
+          "end_relative": 32450
+        },
+        "chb19_10.edf": {
+          "start_original": "02:37:27",
+          "end_original": "3:37:27",
+          "start_relative": 32457,
+          "end_relative": 36057
+        },
+        "chb19_11.edf": {
+          "start_original": "03:37:34",
+          "end_original": "4:37:34",
+          "start_relative": 36064,
+          "end_relative": 39664
+        },
+        "chb19_12.edf": {
+          "start_original": "04:37:41",
+          "end_original": "5:37:41",
+          "start_relative": 39671,
+          "end_relative": 43271
+        },
+        "chb19_13.edf": {
+          "start_original": "05:37:47",
+          "end_original": "6:37:47",
+          "start_relative": 43277,
+          "end_relative": 46877
+        },
+        "chb19_14.edf": {
+          "start_original": "06:37:54",
+          "end_original": "7:37:54",
+          "start_relative": 46884,
+          "end_relative": 50484
+        },
+        "chb19_15.edf": {
+          "start_original": "07:38:01",
+          "end_original": "8:38:01",
+          "start_relative": 50491,
+          "end_relative": 54091
+        },
+        "chb19_16.edf": {
+          "start_original": "08:38:08",
+          "end_original": "9:38:08",
+          "start_relative": 54098,
+          "end_relative": 57698
+        }
+      },
+      "ictals": []
+    },
+    "group_2": {
+      "files": {
+        "chb19_17.edf": {
+          "start_original": "12:38:35",
+          "end_original": "13:38:35",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb19_18.edf": {
+          "start_original": "13:38:42",
+          "end_original": "14:38:42",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb19_19.edf": {
+          "start_original": "14:38:48",
+          "end_original": "15:38:48",
+          "start_relative": 7213,
+          "end_relative": 10813
+        },
+        "chb19_20.edf": {
+          "start_original": "15:38:55",
+          "end_original": "16:38:55",
+          "start_relative": 10820,
+          "end_relative": 14420
+        },
+        "chb19_21.edf": {
+          "start_original": "16:39:02",
+          "end_original": "17:39:02",
+          "start_relative": 14427,
+          "end_relative": 18027
+        }
+      },
+      "ictals": []
+    },
+    "group_3": {
+      "files": {
+        "chb19_22.edf": {
+          "start_original": "22:39:42",
+          "end_original": "23:39:42",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb19_23.edf": {
+          "start_original": "23:39:49",
+          "end_original": "24:39:49",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb19_24.edf": {
+          "start_original": "00:39:56",
+          "end_original": "1:39:56",
+          "start_relative": 7214,
+          "end_relative": 10814
+        },
+        "chb19_25.edf": {
+          "start_original": "01:40:02",
+          "end_original": "2:40:02",
+          "start_relative": 10820,
+          "end_relative": 14420
+        }
+      },
+      "ictals": []
+    },
+    "group_4": {
+      "files": {
+        "chb19_26.edf": {
+          "start_original": "04:40:23",
+          "end_original": "5:40:23",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    },
+    "group_5": {
+      "files": {
+        "chb19_27.edf": {
+          "start_original": "03:03:38",
+          "end_original": "4:03:38",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    },
+    "group_6": {
+      "files": {
+        "chb19_28.edf": {
+          "start_original": "01:09:35",
+          "end_original": "2:09:47",
+          "start_relative": 0,
+          "end_relative": 3612
+        }
+      },
+      "ictals": [
+        [
+          299,
+          377
+        ]
+      ]
+    },
+    "group_7": {
+      "files": {
+        "chb19_29.edf": {
+          "start_original": "07:11:12",
+          "end_original": "8:11:12",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": [
+        [
+          2964,
+          3041
+        ]
+      ]
+    },
+    "group_8": {
+      "files": {
+        "chb19_30.edf": {
+          "start_original": "11:12:51",
+          "end_original": "12:08:25",
+          "start_relative": 0,
+          "end_relative": 3334
+        }
+      },
+      "ictals": [
+        [
+          3159,
+          3240
+        ]
+      ]
+    }
+  },
+  "chb20": {
+    "group_1": {
+      "files": {
+        "chb20_01.edf": {
+          "start_original": "16:55:08",
+          "end_original": "17:55:14",
+          "start_relative": 0,
+          "end_relative": 3606
+        },
+        "chb20_02.edf": {
+          "start_original": "17:55:44",
+          "end_original": "18:55:44",
+          "start_relative": 3636,
+          "end_relative": 7236
+        },
+        "chb20_03.edf": {
+          "start_original": "18:55:51",
+          "end_original": "19:55:51",
+          "start_relative": 7243,
+          "end_relative": 10843
+        },
+        "chb20_04.edf": {
+          "start_original": "19:55:59",
+          "end_original": "20:55:59",
+          "start_relative": 10851,
+          "end_relative": 14451
+        },
+        "chb20_05.edf": {
+          "start_original": "20:56:06",
+          "end_original": "21:56:06",
+          "start_relative": 14458,
+          "end_relative": 18058
+        },
+        "chb20_06.edf": {
+          "start_original": "21:56:13",
+          "end_original": "22:56:13",
+          "start_relative": 18065,
+          "end_relative": 21665
+        },
+        "chb20_07.edf": {
+          "start_original": "22:56:19",
+          "end_original": "23:56:19",
+          "start_relative": 21671,
+          "end_relative": 25271
+        },
+        "chb20_08.edf": {
+          "start_original": "23:56:26",
+          "end_original": "24:56:26",
+          "start_relative": 25278,
+          "end_relative": 28878
+        }
+      },
+      "ictals": []
+    },
+    "group_2": {
+      "files": {
+        "chb20_11.edf": {
+          "start_original": "02:56:46",
+          "end_original": "3:56:46",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb20_12.edf": {
+          "start_original": "03:56:53",
+          "end_original": "4:56:53",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb20_13.edf": {
+          "start_original": "04:57:00",
+          "end_original": "5:57:00",
+          "start_relative": 7214,
+          "end_relative": 10814
+        },
+        "chb20_14.edf": {
+          "start_original": "05:57:07",
+          "end_original": "6:57:07",
+          "start_relative": 10821,
+          "end_relative": 14421
+        },
+        "chb20_15.edf": {
+          "start_original": "06:57:14",
+          "end_original": "7:57:14",
+          "start_relative": 14428,
+          "end_relative": 18028
+        },
+        "chb20_16.edf": {
+          "start_original": "07:57:20",
+          "end_original": "8:55:09",
+          "start_relative": 18034,
+          "end_relative": 21503
+        },
+        "chb20_17.edf": {
+          "start_original": "08:55:24",
+          "end_original": "9:55:24",
+          "start_relative": 21518,
+          "end_relative": 25118
+        }
+      },
+      "ictals": [
+        [
+          3701,
+          3730
+        ],
+        [
+          8654,
+          8684
+        ],
+        [
+          9712,
+          9751
+        ],
+        [
+          12792,
+          12830
+        ],
+        [
+          14818,
+          14853
+        ],
+        [
+          16117,
+          16166
+        ],
+        [
+          20260,
+          20295
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "chb20_21.edf": {
+          "start_original": "12:51:27",
+          "end_original": "13:51:45",
+          "start_relative": 0,
+          "end_relative": 3618
+        },
+        "chb20_22.edf": {
+          "start_original": "13:53:06",
+          "end_original": "14:05:28",
+          "start_relative": 3699,
+          "end_relative": 4441
+        },
+        "chb20_23.edf": {
+          "start_original": "14:11:44",
+          "end_original": "15:01:08",
+          "start_relative": 4817,
+          "end_relative": 7781
+        },
+        "chb20_25.edf": {
+          "start_original": "16:05:20",
+          "end_original": "17:05:20",
+          "start_relative": 11633,
+          "end_relative": 15233
+        },
+        "chb20_26.edf": {
+          "start_original": "17:05:27",
+          "end_original": "18:05:27",
+          "start_relative": 15240,
+          "end_relative": 18840
+        },
+        "chb20_27.edf": {
+          "start_original": "18:05:33",
+          "end_original": "19:05:33",
+          "start_relative": 18846,
+          "end_relative": 22446
+        },
+        "chb20_28.edf": {
+          "start_original": "19:05:40",
+          "end_original": "20:05:40",
+          "start_relative": 22453,
+          "end_relative": 26053
+        },
+        "chb20_29.edf": {
+          "start_original": "20:05:47",
+          "end_original": "21:05:47",
+          "start_relative": 26060,
+          "end_relative": 29660
+        },
+        "chb20_30.edf": {
+          "start_original": "21:05:54",
+          "end_original": "22:05:54",
+          "start_relative": 29667,
+          "end_relative": 33267
+        },
+        "chb20_31.edf": {
+          "start_original": "22:06:01",
+          "end_original": "23:06:01",
+          "start_relative": 33274,
+          "end_relative": 36874
+        }
+      },
+      "ictals": []
+    },
+    "group_4": {
+      "files": {
+        "chb20_34.edf": {
+          "start_original": "01:06:21",
+          "end_original": "2:06:21",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    },
+    "group_5": {
+      "files": {
+        "chb20_59.edf": {
+          "start_original": "00:44:04",
+          "end_original": "1:44:04",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb20_60.edf": {
+          "start_original": "01:44:11",
+          "end_original": "2:44:11",
+          "start_relative": 3607,
+          "end_relative": 7207
+        }
+      },
+      "ictals": []
+    },
+    "group_6": {
+      "files": {
+        "chb20_68.edf": {
+          "start_original": "09:45:07",
+          "end_original": "10:21:14",
+          "start_relative": 0,
+          "end_relative": 2167
+        }
+      },
+      "ictals": [
+        [
+          1393,
+          1432
+        ]
+      ]
+    }
+  },
+  "chb21": {
+    "group_1": {
+      "files": {
+        "chb21_01.edf": {
+          "start_original": "17:56:45",
+          "end_original": "18:56:45",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb21_02.edf": {
+          "start_original": "18:56:49",
+          "end_original": "19:56:49",
+          "start_relative": 3604,
+          "end_relative": 7204
+        },
+        "chb21_03.edf": {
+          "start_original": "19:56:57",
+          "end_original": "20:56:57",
+          "start_relative": 7212,
+          "end_relative": 10812
+        },
+        "chb21_04.edf": {
+          "start_original": "20:57:04",
+          "end_original": "21:57:04",
+          "start_relative": 10819,
+          "end_relative": 14419
+        },
+        "chb21_05.edf": {
+          "start_original": "21:57:11",
+          "end_original": "22:57:11",
+          "start_relative": 14426,
+          "end_relative": 18026
+        },
+        "chb21_06.edf": {
+          "start_original": "22:57:18",
+          "end_original": "23:57:18",
+          "start_relative": 18033,
+          "end_relative": 21633
+        },
+        "chb21_07.edf": {
+          "start_original": "23:57:24",
+          "end_original": "24:57:24",
+          "start_relative": 21639,
+          "end_relative": 25239
+        },
+        "chb21_08.edf": {
+          "start_original": "00:57:31",
+          "end_original": "1:57:31",
+          "start_relative": 25246,
+          "end_relative": 28846
+        },
+        "chb21_09.edf": {
+          "start_original": "01:57:38",
+          "end_original": "2:57:38",
+          "start_relative": 28853,
+          "end_relative": 32453
+        },
+        "chb21_10.edf": {
+          "start_original": "02:57:45",
+          "end_original": "3:57:45",
+          "start_relative": 32460,
+          "end_relative": 36060
+        },
+        "chb21_11.edf": {
+          "start_original": "03:57:52",
+          "end_original": "4:57:52",
+          "start_relative": 36067,
+          "end_relative": 39667
+        },
+        "chb21_12.edf": {
+          "start_original": "04:57:59",
+          "end_original": "5:57:59",
+          "start_relative": 39674,
+          "end_relative": 43274
+        },
+        "chb21_13.edf": {
+          "start_original": "05:58:06",
+          "end_original": "6:58:06",
+          "start_relative": 43281,
+          "end_relative": 46881
+        },
+        "chb21_14.edf": {
+          "start_original": "06:58:13",
+          "end_original": "7:58:13",
+          "start_relative": 46888,
+          "end_relative": 50488
+        },
+        "chb21_15.edf": {
+          "start_original": "07:58:20",
+          "end_original": "8:58:20",
+          "start_relative": 50495,
+          "end_relative": 54095
+        },
+        "chb21_16.edf": {
+          "start_original": "08:58:27",
+          "end_original": "9:58:26",
+          "start_relative": 54102,
+          "end_relative": 57701
+        },
+        "chb21_17.edf": {
+          "start_original": "09:58:59",
+          "end_original": "10:58:59",
+          "start_relative": 57734,
+          "end_relative": 61334
+        },
+        "chb21_18.edf": {
+          "start_original": "10:59:06",
+          "end_original": "11:59:06",
+          "start_relative": 61341,
+          "end_relative": 64941
+        },
+        "chb21_19.edf": {
+          "start_original": "11:59:13",
+          "end_original": "12:59:13",
+          "start_relative": 64948,
+          "end_relative": 68548
+        },
+        "chb21_20.edf": {
+          "start_original": "12:59:20",
+          "end_original": "13:49:10",
+          "start_relative": 68555,
+          "end_relative": 71545
+        }
+      },
+      "ictals": [
+        [
+          66236,
+          66292
+        ],
+        [
+          71182,
+          71232
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "chb21_21.edf": {
+          "start_original": "15:49:35",
+          "end_original": "16:49:35",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb21_22.edf": {
+          "start_original": "16:49:42",
+          "end_original": "17:49:42",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb21_23.edf": {
+          "start_original": "18:36:01",
+          "end_original": "19:36:01",
+          "start_relative": 9986,
+          "end_relative": 13586
+        },
+        "chb21_24.edf": {
+          "start_original": "20:36:11",
+          "end_original": "21:36:11",
+          "start_relative": 17196,
+          "end_relative": 20796
+        },
+        "chb21_25.edf": {
+          "start_original": "22:36:25",
+          "end_original": "23:36:25",
+          "start_relative": 24410,
+          "end_relative": 28010
+        },
+        "chb21_26.edf": {
+          "start_original": "23:36:32",
+          "end_original": "24:36:32",
+          "start_relative": 28017,
+          "end_relative": 31617
+        },
+        "chb21_27.edf": {
+          "start_original": "00:36:39",
+          "end_original": "1:36:39",
+          "start_relative": 31624,
+          "end_relative": 35224
+        },
+        "chb21_28.edf": {
+          "start_original": "01:36:46",
+          "end_original": "2:36:46",
+          "start_relative": 35231,
+          "end_relative": 38831
+        }
+      },
+      "ictals": [
+        [
+          2003,
+          2084
+        ],
+        [
+          6160,
+          6172
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "chb21_29.edf": {
+          "start_original": "08:37:34",
+          "end_original": "9:37:34",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    },
+    "group_4": {
+      "files": {
+        "chb21_30.edf": {
+          "start_original": "13:38:08",
+          "end_original": "14:38:08",
+          "start_relative": 0,
+          "end_relative": 3600
+        }
+      },
+      "ictals": []
+    },
+    "group_5": {
+      "files": {
+        "chb21_31.edf": {
+          "start_original": "22:39:10",
+          "end_original": "23:39:10",
+          "start_relative": 0,
+          "end_relative": 3600
+        },
+        "chb21_32.edf": {
+          "start_original": "23:39:17",
+          "end_original": "24:39:17",
+          "start_relative": 3607,
+          "end_relative": 7207
+        },
+        "chb21_33.edf": {
+          "start_original": "00:39:24",
+          "end_original": "1:39:24",
+          "start_relative": 7214,
+          "end_relative": 10814
+        }
+      },
+      "ictals": []
+    }
+  },
+  "chb23": {
+    "group_1": {
+      "files": {
+        "chb23_06.edf": {
+          "start_original": "08:57:57",
+          "end_original": "11:02:43",
+          "start_relative": 0,
+          "end_relative": 7486
+        },
+        "chb23_07.edf": {
+          "start_original": "11:03:16",
+          "end_original": "11:45:56",
+          "start_relative": 7519,
+          "end_relative": 10079
+        },
+        "chb23_08.edf": {
+          "start_original": "11:48:05",
+          "end_original": "14:40:27",
+          "start_relative": 10208,
+          "end_relative": 20550
+        },
+        "chb23_09.edf": {
+          "start_original": "14:40:47",
+          "end_original": "18:41:13",
+          "start_relative": 20570,
+          "end_relative": 34996
+        },
+        "chb23_10.edf": {
+          "start_original": "18:41:40",
+          "end_original": "22:41:40",
+          "start_relative": 35023,
+          "end_relative": 49423
+        }
+      },
+      "ictals": [
+        [
+          3962,
+          4075
+        ],
+        [
+          10533,
+          10553
+        ],
+        [
+          15312,
+          15359
+        ],
+        [
+          23159,
+          23230
+        ],
+        [
+          27455,
+          27517
+        ],
+        [
+          29075,
+          29102
+        ],
+        [
+          30150,
+          30234
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "chb23_16.edf": {
+          "start_original": "13:46:32",
+          "end_original": "17:46:32",
+          "start_relative": 0,
+          "end_relative": 14400
+        },
+        "chb23_17.edf": {
+          "start_original": "17:46:42",
+          "end_original": "21:16:29",
+          "start_relative": 14410,
+          "end_relative": 26997
+        }
+      },
+      "ictals": []
+    },
+    "group_3": {
+      "files": {
+        "chb23_19.edf": {
+          "start_original": "02:28:28",
+          "end_original": "6:28:28",
+          "start_relative": 0,
+          "end_relative": 14400
+        },
+        "chb23_20.edf": {
+          "start_original": "06:28:36",
+          "end_original": "7:52:05",
+          "start_relative": 14408,
+          "end_relative": 19417
+        }
+      },
+      "ictals": []
+    }
+  }
+}
