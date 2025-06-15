@@ -6,9 +6,9 @@ then group them and compute absolute times, and integrate ictal segments into th
 import re
 import json
 
-from settings import RAW_DATA_PATH, PROCESSED_DATA_PATH
+from settings import ROOT_PATH, RAW_DATA_PATH, PROCESSED_DATA_PATH
 
-SEIZURE_FILE = PROCESSED_DATA_PATH / "seizure_map.json"
+SEIZURE_FILE = ROOT_PATH / "Data" / "seizure_map.json"
 PROC_FILE = PROCESSED_DATA_PATH / "files_summary.json"
 
 PROC_FILE.parent.mkdir(parents=True, exist_ok=True)
