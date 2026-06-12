@@ -101,7 +101,7 @@ POSTICTAL_TRANSITION_START = 0  # s
 POSTICTAL_TRANSITION_END = 1 * 3600  # s
 
 # Plotting Parameters
-MAX_POINTS = 4000
+MAX_POINTS = 1000
 
 LABEL_COLOR_MAP = {
     "interictal": "rgba(0,200,0,0.3)",  # Green

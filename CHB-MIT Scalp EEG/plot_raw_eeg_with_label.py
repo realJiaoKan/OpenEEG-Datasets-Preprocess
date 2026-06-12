@@ -16,7 +16,7 @@ from settings import (
     LABEL_COLOR_MAP,
 )
 
-PLOTTING_FILE = PROCESSED_DATA_PATH / "Label & Splited" / "chb16_group_1.pkl"
+PLOTTING_FILE = PROCESSED_DATA_PATH / "Label & Splited" / "chb01_group_1.pkl"
 
 
 def plot_eeg_waveform_with_labels(pkl_path):
@@ -26,6 +26,10 @@ def plot_eeg_waveform_with_labels(pkl_path):
         out = pickle.load(f)
     segments = out["segments"]
     sample_counts = [len(seg["data"][CHANNELS[0]]) for seg in segments]
+    unique_labels = []
+    for seg in segments:
+        if seg["label"] not in unique_labels:
+            unique_labels.append(seg["label"])
     total_samples = sum(sample_counts)
 
     # Concatenate segments and create the label array
@@ -53,8 +57,8 @@ def plot_eeg_waveform_with_labels(pkl_path):
     # Create the figure
     fig = go.Figure()
 
-    # Wavefroms
-    for ci, ch in enumerate(CHANNELS):
+    # Waveforms
+    for ci, ch in enumerate(CHANNELS[:1]):
         fig.add_trace(go.Scatter(x=t_ds, y=wave_ds[ci], mode="lines", name=ch))
 
     # Color band for labels
@@ -75,11 +79,41 @@ def plot_eeg_waveform_with_labels(pkl_path):
         )
         start_time += seg_dur
 
+    # Add fake scatter traces to expose label colors in legend
+    for li, label in enumerate(unique_labels):
+        color = LABEL_COLOR_MAP.get(label, "rgba(150,150,150,0.5)")
+        fig.add_trace(
+            go.Scatter(
+                x=[None],
+                y=[None],
+                mode="markers",
+                marker=dict(size=12, symbol="square", color=color),
+                name=label,
+                # legendgroup="labels",
+                # legendgrouptitle_text="Labels" if li == 0 else None,
+                # legendrank=2,
+                showlegend=True,
+            )
+        )
+
     # Layout settings
     fig.update_layout(
         title="EEG Full Waveform with Labels",
         xaxis_title="Time (s)",
         yaxis_title="Amplitude (µV)",
+        title_font=dict(size=26),
+        font=dict(size=22),
+        xaxis=dict(title=dict(font=dict(size=24)), tickfont=dict(size=20)),
+        yaxis=dict(title=dict(font=dict(size=24)), tickfont=dict(size=20)),
+        legend=dict(
+            orientation="h",
+            x=0.5,
+            xanchor="center",
+            y=-0.12,
+            yanchor="top",
+            font=dict(size=22),
+        ),
+        margin=dict(b=90),
         showlegend=True,
     )
 
