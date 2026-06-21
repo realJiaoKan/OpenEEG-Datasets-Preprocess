@@ -1,0 +1,656 @@
+{
+  "PN00": {
+    "group_1": {
+      "files": {
+        "PN00-1.edf": {
+          "start_original": "19:39:33",
+          "end_original": "20:23:18",
+          "start_relative": 0,
+          "end_relative": 2625
+        }
+      },
+      "ictals": [
+        [
+          1143,
+          1213
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN00-2.edf": {
+          "start_original": "02:18:17",
+          "end_original": "02:56:39",
+          "start_relative": 0,
+          "end_relative": 2302
+        }
+      },
+      "ictals": [
+        [
+          1220,
+          1274
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "PN00-3.edf": {
+          "start_original": "18:15:44",
+          "end_original": "18:57:33",
+          "start_relative": 0,
+          "end_relative": 2509
+        },
+        "PN00-4.edf": {
+          "start_original": "20:51:43",
+          "end_original": "21:26:45",
+          "start_relative": 9359,
+          "end_relative": 11461
+        },
+        "PN00-5.edf": {
+          "start_original": "22:22:04",
+          "end_original": "22:57:47",
+          "start_relative": 14780,
+          "end_relative": 16923
+        }
+      },
+      "ictals": [
+        [
+          765,
+          825
+        ],
+        [
+          10365,
+          10439
+        ],
+        [
+          15684,
+          15751
+        ]
+      ]
+    }
+  },
+  "PN01": {
+    "group_1": {
+      "files": {
+        "PN01-1.edf": {
+          "start_original": "19:00:44",
+          "end_original": "08:30:01",
+          "start_relative": 0,
+          "end_relative": 48557
+        }
+      },
+      "ictals": [
+        [
+          10218,
+          10272
+        ],
+        [
+          46353,
+          46427
+        ]
+      ]
+    }
+  },
+  "PN03": {
+    "group_1": {
+      "files": {
+        "PN03-1.edf": {
+          "start_original": "22:44:37",
+          "end_original": "11:41:54",
+          "start_relative": 0,
+          "end_relative": 46637
+        }
+      },
+      "ictals": [
+        [
+          38673,
+          38784
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN03-2.edf": {
+          "start_original": "21:31:04",
+          "end_original": "08:47:24",
+          "start_relative": 0,
+          "end_relative": 40580
+        }
+      },
+      "ictals": [
+        [
+          34921,
+          35054
+        ]
+      ]
+    }
+  },
+  "PN05": {
+    "group_1": {
+      "files": {
+        "PN05-2.edf": {
+          "start_original": "06:46:02",
+          "end_original": "09:20:07",
+          "start_relative": 0,
+          "end_relative": 9245
+        }
+      },
+      "ictals": [
+        [
+          7163,
+          7198
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN05-3.edf": {
+          "start_original": "06:01:13",
+          "end_original": "08:07:07",
+          "start_relative": 0,
+          "end_relative": 7554
+        }
+      },
+      "ictals": [
+        [
+          6846,
+          6876
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "PN05-4.edf": {
+          "start_original": "06:38:35",
+          "end_original": "08:00:43",
+          "start_relative": 0,
+          "end_relative": 4928
+        }
+      },
+      "ictals": [
+        [
+          3608,
+          3647
+        ]
+      ]
+    }
+  },
+  "PN06": {
+    "group_1": {
+      "files": {
+        "PN06-1.edf": {
+          "start_original": "04:21:22",
+          "end_original": "07:01:37",
+          "start_relative": 0,
+          "end_relative": 9615
+        }
+      },
+      "ictals": [
+        [
+          5583,
+          5647
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN06-2.edf": {
+          "start_original": "21:11:29",
+          "end_original": "00:41:49",
+          "start_relative": 0,
+          "end_relative": 12620
+        }
+      },
+      "ictals": [
+        [
+          8860,
+          8929
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "PN06-3.edf": {
+          "start_original": "06:25:51",
+          "end_original": "08:42:11",
+          "start_relative": 0,
+          "end_relative": 8180
+        }
+      },
+      "ictals": [
+        [
+          6275,
+          6317
+        ]
+      ]
+    },
+    "group_4": {
+      "files": {
+        "PN06-4.edf": {
+          "start_original": "11:16:09",
+          "end_original": "13:13:14",
+          "start_relative": 0,
+          "end_relative": 7025
+        },
+        "PN06-5.edf": {
+          "start_original": "13:24:41",
+          "end_original": "15:05:03",
+          "start_relative": 7712,
+          "end_relative": 13734
+        }
+      },
+      "ictals": [
+        [
+          5939,
+          6002
+        ],
+        [
+          12495,
+          12539
+        ]
+      ]
+    }
+  },
+  "PN07": {
+    "group_1": {
+      "files": {
+        "PN07-1.edf": {
+          "start_original": "23:18:10",
+          "end_original": "08:02:18",
+          "start_relative": 0,
+          "end_relative": 31448
+        }
+      },
+      "ictals": [
+        [
+          22059,
+          22121
+        ]
+      ]
+    }
+  },
+  "PN09": {
+    "group_1": {
+      "files": {
+        "PN09-1.edf": {
+          "start_original": "14:08:54",
+          "end_original": "16:26:07",
+          "start_relative": 0,
+          "end_relative": 8233
+        }
+      },
+      "ictals": [
+        [
+          7249,
+          7329
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN09-2.edf": {
+          "start_original": "15:02:09",
+          "end_original": "17:21:22",
+          "start_relative": 0,
+          "end_relative": 8353
+        }
+      },
+      "ictals": [
+        [
+          7127,
+          7186
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "PN09-3.edf": {
+          "start_original": "14:20:23",
+          "end_original": "16:34:48",
+          "start_relative": 0,
+          "end_relative": 8065
+        }
+      },
+      "ictals": [
+        [
+          7221,
+          7285
+        ]
+      ]
+    }
+  },
+  "PN10": {
+    "group_1": {
+      "files": {
+        "PN10-1.edf": {
+          "start_original": "05:40:05",
+          "end_original": "08:26:27",
+          "start_relative": 0,
+          "end_relative": 9982
+        },
+        "PN10-2.edf": {
+          "start_original": "09:30:15",
+          "end_original": "11:52:49",
+          "start_relative": 13810,
+          "end_relative": 22364
+        },
+        "PN10-3.edf": {
+          "start_original": "13:33:18",
+          "end_original": "15:58:31",
+          "start_relative": 28393,
+          "end_relative": 37106
+        }
+      },
+      "ictals": [
+        [
+          7545,
+          7614
+        ],
+        [
+          21608,
+          21659
+        ],
+        [
+          36228,
+          36297
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN10-4.5.6.edf": {
+          "start_original": "12:11:21",
+          "end_original": "16:48:49",
+          "start_relative": 0,
+          "end_relative": 16648
+        },
+        "PN10-7.8.9.edf": {
+          "start_original": "16:49:25",
+          "end_original": "20:58:40",
+          "start_relative": 16684,
+          "end_relative": 31639
+        }
+      },
+      "ictals": [
+        [
+          2309,
+          2314
+        ],
+        [
+          6544,
+          6563
+        ],
+        [
+          11225,
+          11282
+        ],
+        [
+          19432,
+          19480
+        ],
+        [
+          22143,
+          22161
+        ],
+        [
+          29607,
+          29622
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "PN10-10.edf": {
+          "start_original": "08:45:22",
+          "end_original": "11:08:07",
+          "start_relative": 0,
+          "end_relative": 8565
+        }
+      },
+      "ictals": [
+        [
+          7977,
+          7991
+        ]
+      ]
+    }
+  },
+  "PN11": {
+    "group_1": {
+      "files": {
+        "PN11-1.edf": {
+          "start_original": "11:31:25",
+          "end_original": "13:56:02",
+          "start_relative": 0,
+          "end_relative": 8677
+        }
+      },
+      "ictals": [
+        [
+          7554,
+          7609
+        ]
+      ]
+    }
+  },
+  "PN12": {
+    "group_1": {
+      "files": {
+        "PN12-1.2.edf": {
+          "start_original": "15:51:31",
+          "end_original": "18:34:25",
+          "start_relative": 0,
+          "end_relative": 9774
+        }
+      },
+      "ictals": [
+        [
+          1312,
+          1375
+        ],
+        [
+          9570,
+          9638
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN12-3.edf": {
+          "start_original": "08:42:35",
+          "end_original": "09:15:44",
+          "start_relative": 0,
+          "end_relative": 1989
+        }
+      },
+      "ictals": [
+        [
+          772,
+          868
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "PN12-4.edf": {
+          "start_original": "15:59:19",
+          "end_original": "18:49:13",
+          "start_relative": 0,
+          "end_relative": 10194
+        }
+      },
+      "ictals": [
+        [
+          9812,
+          9875
+        ]
+      ]
+    }
+  },
+  "PN13": {
+    "group_1": {
+      "files": {
+        "PN13-1.edf": {
+          "start_original": "08:24:28",
+          "end_original": "11:00:23",
+          "start_relative": 0,
+          "end_relative": 9355
+        }
+      },
+      "ictals": [
+        [
+          7062,
+          7110
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN13-2.edf": {
+          "start_original": "06:55:02",
+          "end_original": "09:30:14",
+          "start_relative": 0,
+          "end_relative": 9312
+        }
+      },
+      "ictals": [
+        [
+          7249,
+          7314
+        ]
+      ]
+    },
+    "group_3": {
+      "files": {
+        "PN13-3.edf": {
+          "start_original": "12:00:01",
+          "end_original": "15:28:48",
+          "start_relative": 0,
+          "end_relative": 12527
+        }
+      },
+      "ictals": [
+        [
+          7553,
+          7704
+        ]
+      ]
+    }
+  },
+  "PN14": {
+    "group_1": {
+      "files": {
+        "PN14-1.edf": {
+          "start_original": "11:44:58",
+          "end_original": "13:56:06",
+          "start_relative": 0,
+          "end_relative": 7868
+        },
+        "PN14-2.edf": {
+          "start_original": "15:50:13",
+          "end_original": "18:22:58",
+          "start_relative": 14715,
+          "end_relative": 23880
+        },
+        "PN14-3.edf": {
+          "start_original": "19:17:45",
+          "end_original": "06:57:40",
+          "start_relative": 27167,
+          "end_relative": 69162
+        }
+      },
+      "ictals": [
+        [
+          7262,
+          7289
+        ],
+        [
+          22194,
+          22206
+        ],
+        [
+          33907,
+          33948
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN14-4.edf": {
+          "start_original": "14:18:30",
+          "end_original": "18:22:32",
+          "start_relative": 0,
+          "end_relative": 14642
+        }
+      },
+      "ictals": [
+        [
+          5463,
+          5546
+        ]
+      ]
+    }
+  },
+  "PN16": {
+    "group_1": {
+      "files": {
+        "PN16-1.edf": {
+          "start_original": "20:45:21",
+          "end_original": "23:03:11",
+          "start_relative": 0,
+          "end_relative": 8270
+        },
+        "PN16-2.edf": {
+          "start_original": "00:53:55",
+          "end_original": "03:28:52",
+          "start_relative": 14914,
+          "end_relative": 24211
+        }
+      },
+      "ictals": [
+        [
+          7184,
+          7307
+        ],
+        [
+          23488,
+          23595
+        ]
+      ]
+    }
+  },
+  "PN17": {
+    "group_1": {
+      "files": {
+        "PN17-1.edf": {
+          "start_original": "20:14:28",
+          "end_original": "22:49:05",
+          "start_relative": 0,
+          "end_relative": 9277
+        }
+      },
+      "ictals": [
+        [
+          8420,
+          8490
+        ]
+      ]
+    },
+    "group_2": {
+      "files": {
+        "PN17-2.edf": {
+          "start_original": "13:52:18",
+          "end_original": "16:25:10",
+          "start_relative": 0,
+          "end_relative": 9172
+        }
+      },
+      "ictals": [
+        [
+          7731,
+          7814
+        ]
+      ]
+    }
+  }
+}
