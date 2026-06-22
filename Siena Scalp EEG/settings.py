@@ -5,7 +5,7 @@ RANDOM_SEED = 42
 
 # File Paths
 ROOT_PATH = Path(__file__).parent
-DATA_PATH = ROOT_PATH / "Datasets" / "Data"
+DATA_PATH = ROOT_PATH / "Data"
 RAW_DATA_PATH = DATA_PATH / "Raw"
 PROCESSED_DATA_PATH = DATA_PATH / "Processed"
 SUBJECT_INFO_FILE = DATA_PATH / "subject_info.csv"

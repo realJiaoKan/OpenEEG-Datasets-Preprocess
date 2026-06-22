@@ -12,7 +12,7 @@ The scripts expect the PhysioNet data in this layout:
 
 ```text
 Siena Scalp EEG/
-  Datasets/Data/
+  Data/
     subject_info.csv
     Raw/
       PNxx/
@@ -31,7 +31,7 @@ Run `gen_seizure_map.py` before all other stages. It parses every
 `Seizures-list-PNxx.txt` and writes:
 
 ```text
-Datasets/Data/seizure_map.json
+Data/seizure_map.json
 ```
 
 The result uses the same CHB-compatible contract:
@@ -71,7 +71,7 @@ A mismatch fails rather than silently creating a partial map.
 `gen_file_summary.py` writes:
 
 ```text
-Datasets/Data/Processed/files_summary.json
+Data/Processed/files_summary.json
 ```
 
 Siena seizure-list registration times have small errors in some records. The
@@ -120,7 +120,7 @@ introduced.
 
 ## Run Order
 
-Run all stages in order after placing raw data under `Datasets/Data/Raw/`:
+Run all stages in order after placing raw data under `Data/Raw/`:
 
 ```bash
 ./.venv/bin/python "Siena Scalp EEG/gen_seizure_map.py"
