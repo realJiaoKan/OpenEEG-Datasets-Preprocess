@@ -22,7 +22,7 @@ as labels during the first stage so that temporal exclusions are explicit, but
 they are not exported as model inputs by the current configuration.
 
 Each retained example is a 5-second, per-channel z-scored EEG window. Final
-folds are balanced binary datasets:
+folds are binary datasets that retain all available samples:
 
 - `0`: interictal
 - `1`: preictal
@@ -47,8 +47,8 @@ are dataset-specific and documented in each dataset README.
 | Ictal | annotated onset to annotated end | Explicitly excluded from the binary dataset. |
 | Postictal transition | seizure end to +1 h | Explicitly excluded from the binary dataset. |
 | Minimum accepted preictal segment | 15 minutes | Shorter continuous preictal segments are not made into folds. |
-| Interictal training ratio setting | 0.3 | Present in `settings.py`, but the current scripts do not read it. Final folds use the balancing procedure described below. |
-| Random seed | 42 | Used in the Interictal-Preictal preparation and balancing stages. |
+| Interictal training ratio setting | 0.3 | Present in `settings.py`, but the current scripts do not read it. |
+| Random seed | 42 | Used for shuffling in the Interictal-Preictal preparation and final-fold stages. |
 
 ## Label Construction And Priority
 
@@ -147,7 +147,7 @@ source group and group-relative segment time.
 
 At this point there are no class labels inside the NPZ files. A patient can
 have preictal files but no `interictal_combined.npz`; such a patient cannot
-produce a balanced final binary fold.
+produce a final binary fold.
 
 ### 4. `interictal_preictal_postprocess.py`
 
@@ -157,9 +157,10 @@ produce a balanced final binary fold.
 
 For a patient with `k` accepted preictal files, the stage shuffles all
 interictal windows and partitions them into `k` disjoint parts. Each part is
-paired with one preictal file. The larger class is sampled without replacement
-down to the smaller class, the two classes are concatenated, labelled, and
-shuffled.
+paired with one preictal file. All windows in the interictal part and preictal
+file are retained, then the two classes are concatenated, labelled, and
+shuffled. Folds may therefore be class-imbalanced; configure class or loss
+weights in the training code as appropriate.
 
 Final EEG fold contract:
 

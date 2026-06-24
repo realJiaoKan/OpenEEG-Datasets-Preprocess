@@ -2,7 +2,7 @@
 
 This directory is the CHB-MIT adapter for the shared
 [Interictal-Preictal pipeline](../Readme.md). Read the root README first for
-the shared label priority, slicing, balancing, NPZ contracts, and the meaning
+the shared label priority, slicing, final-fold construction, NPZ contracts, and the meaning
 of every stage below. This document records choices that are specific to CHB.
 
 ## Raw Data Layout
@@ -84,6 +84,8 @@ directories and the corresponding summary/seizure-map entries.
   `[57, 63]` Hz plus `[117, 123]` Hz before log-amplitude conversion.
 - Frequency resolution is 0.2 Hz; final spectrogram shape is
   `(N, 1, 18, 578)`.
+- Final folds retain all interictal and preictal windows; configure loss weights
+  during training if class imbalance needs to be compensated.
 
 ## Run Order
 
@@ -116,7 +118,7 @@ log; do not infer a clinical exclusion reason from absence alone.
 For the current outputs, all 16 curated subjects have both accepted preictal
 and interictal windows, so all reach the final EEG and Spectrogram stages. The
 generated `files_summary.json` contains 63 recording groups and 90 ictal
-events; the final tree contains 58 balanced folds. Fold counts by patient are:
+events; the final tree contains 58 folds. Fold counts by patient are:
 
 ```text
 chb01:5  chb02:3  chb03:3  chb05:3  chb07:3  chb08:5

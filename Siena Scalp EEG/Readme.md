@@ -2,7 +2,7 @@
 
 This directory adapts Siena to the shared
 [Interictal-Preictal pipeline](../Readme.md). Read the root README for the
-common label priority, slicing, balancing, final file contracts, and stage
+common label priority, slicing, final-fold construction, final file contracts, and stage
 semantics. This document describes the source-specific parsing and curation
 required by Siena.
 
@@ -117,6 +117,8 @@ introduced.
   `[247, 253]` Hz before log-amplitude conversion.
 - Frequency resolution remains 0.2 Hz because the waveform window is 5
   seconds. The final spectrogram shape is `(N, 1, 29, 1125)`.
+- Final folds retain all interictal and preictal windows; configure loss weights
+  during training if class imbalance needs to be compensated.
 
 ## Run Order
 
@@ -145,7 +147,7 @@ PN00 PN01 PN03 PN05 PN06 PN07 PN09 PN10 PN11 PN12 PN13 PN14 PN16 PN17
 
 The generated `files_summary.json` contains 32 groups and 47 ictal events. All
 14 patients are processed through labelling, slicing, and preictal extraction.
-The final balanced EEG/Spectrogram dataset contains only these 7 patients:
+The final EEG/Spectrogram dataset contains only these 7 patients:
 
 ```text
 PN01 PN03 PN06 PN07 PN12 PN13 PN14
@@ -154,8 +156,8 @@ PN01 PN03 PN06 PN07 PN12 PN13 PN14
 The other seven patients are not manually deleted and should not be interpreted
 as clinical exclusions. They do have accepted preictal segments, but the
 current shared labeling and slicing rules produce no
-`interictal_combined.npz` for them. Since final folds require paired,
-class-balanced interictal and preictal data, `interictal_preictal_postprocess.py`
+`interictal_combined.npz` for them. Since final folds require paired
+interictal and preictal data, `interictal_preictal_postprocess.py`
 skips them:
 
 | Patient | Accepted preictal segments | Final-stage reason |

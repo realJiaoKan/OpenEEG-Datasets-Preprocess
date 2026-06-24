@@ -39,15 +39,19 @@ def main():
             n_pre = pre_data.shape[0]
             inter_idx = parts[i]
 
-            # Sample to balance counts
-            if len(inter_idx) > n_pre:
-                sel_inter = np.random.choice(inter_idx, n_pre, replace=False)
-            else:
-                sel_inter = inter_idx
-            if n_pre > len(inter_idx):
-                sel_pre = np.random.choice(n_pre, len(inter_idx), replace=False)
-            else:
-                sel_pre = np.arange(n_pre)
+            # Keep all samples; class imbalance is handled by loss weights at training time.
+            sel_inter = inter_idx
+            sel_pre = np.arange(n_pre)
+
+            # Sample to balance counts (disabled).
+            # if len(inter_idx) > n_pre:
+            #     sel_inter = np.random.choice(inter_idx, n_pre, replace=False)
+            # else:
+            #     sel_inter = inter_idx
+            # if n_pre > len(inter_idx):
+            #     sel_pre = np.random.choice(n_pre, len(inter_idx), replace=False)
+            # else:
+            #     sel_pre = np.arange(n_pre)
             X_inter = inter_data[sel_inter]
             X_pre = pre_data[sel_pre]
 
